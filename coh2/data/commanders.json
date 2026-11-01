@@ -1,0 +1,163 @@
+{
+  "ostheer": [
+    {
+      "id": "lightning_war_doctrine",
+      "name": "Blitzkrieg Doctrine",
+      "tier": "core",
+      "why": "Breakthrough vehicles and smoke support maps with long approaches. Good default when you want tempo through mid fuel."
+    },
+    {
+      "id": "jaeger_infantry_doctrine",
+      "name": "Jaeger Infantry Doctrine",
+      "tier": "core",
+      "why": "Light infantry tools and AT options for green/cover maps. Helps when early MG wars decide VPs."
+    },
+    {
+      "id": "festung_armor_doctrine",
+      "name": "Festung Armor Doctrine",
+      "tier": "situational",
+      "why": "Defensive armor and holds. Pick when the map rewards locking a fuel and refusing a messy mid scrap."
+    },
+    {
+      "id": "german_elite_troops",
+      "name": "Elite Troops Doctrine",
+      "tier": "situational",
+      "why": "Quality infantry spikes. Useful on dense cover maps where gren upgrades and assault infantry trade well."
+    },
+    {
+      "id": "strategic_reserves_doctrine",
+      "name": "Strategic Reserves Doctrine",
+      "tier": "flex",
+      "why": "Call-in flexibility when the game goes long and you need an answer piece without full tech dedication."
+    }
+  ],
+  "soviet": [
+    {
+      "id": "guard_rifle_anti_tank_tactics",
+      "name": "Guard Rifle Combined Arms",
+      "tier": "core",
+      "why": "Guards + AT package covers the classic Soviet mid spike. Reliable when fuel is contested."
+    },
+    {
+      "id": "soviet_lend_lease",
+      "name": "Lend Lease Tactics",
+      "tier": "core",
+      "why": "Allied vehicles and support fill holes in soft AT / recon. Strong generalist pick."
+    },
+    {
+      "id": "soviet_counterattack",
+      "name": "Counterattack Tactics",
+      "tier": "situational",
+      "why": "Tempo tools after you absorb an early push. Good on maps with a clear reset lane to a VP."
+    },
+    {
+      "id": "shock_rifle_frontline_tactics",
+      "name": "Shock Rifle Frontline",
+      "tier": "situational",
+      "why": "Shock infantry pressure for urban / trench-style maps where bodies on VPs matter."
+    },
+    {
+      "id": "soviet_tank_hunters",
+      "name": "Tank Hunters Tactics",
+      "tier": "flex",
+      "why": "Extra AT depth when you expect enemy armor to decide the late game."
+    }
+  ],
+  "okw": [
+    {
+      "id": "okw_breakthrough_doctrine",
+      "name": "Breakthrough Doctrine",
+      "tier": "core",
+      "why": "Aggressive battlegroup tools and armor timing. Default when you can secure an early fuel."
+    },
+    {
+      "id": "okw_fortifications_doctrine",
+      "name": "Fortifications Doctrine",
+      "tier": "core",
+      "why": "Holds and defensive infra. Fits maps where you seed a HQ and refuse to overextend."
+    },
+    {
+      "id": "okw_elite_armored_doctrine",
+      "name": "Elite Armored Doctrine",
+      "tier": "situational",
+      "why": "Late armor quality. Pick when the map tends to go long around dual fuels."
+    },
+    {
+      "id": "okw_luftwaffe_ground_forces_doctrine",
+      "name": "Luftwaffe Ground Forces",
+      "tier": "situational",
+      "why": "AA/air-ground mix and flexible support. Useful when light vehicles and loiters clutter mid."
+    },
+    {
+      "id": "okw_special_operations_doctrine",
+      "name": "Special Operations Doctrine",
+      "tier": "flex",
+      "why": "Harassment and specialty infantry. Good for flank-heavy woodland maps."
+    }
+  ],
+  "usf": [
+    {
+      "id": "usf_infantry_company",
+      "name": "Infantry Company",
+      "tier": "core",
+      "why": "Riflemen upgrades and infantry answers. Solid default on cover-heavy 1v1s."
+    },
+    {
+      "id": "usf_armor_company",
+      "name": "Armor Company",
+      "tier": "core",
+      "why": "Armor spike and medium pressure. Take when fuels are reachable and you want a clean mid."
+    },
+    {
+      "id": "usf_mechanized_company",
+      "name": "Mechanized Company",
+      "tier": "situational",
+      "why": "Halftracks and mobile combined arms for open approaches."
+    },
+    {
+      "id": "usf_airborne_company",
+      "name": "Airborne Company",
+      "tier": "situational",
+      "why": "Paratroop and flank pressure. Strong on maps with rear VP paths or isolated fuels."
+    },
+    {
+      "id": "usf_rifle_company",
+      "name": "Rifle Company",
+      "tier": "flex",
+      "why": "Straightforward rifle path when you want fewer moving parts and steady tech."
+    }
+  ],
+  "ukf": [
+    {
+      "id": "british_engineer_company",
+      "name": "Royal Engineer Regiment",
+      "tier": "core",
+      "id_game": "british_engineer_company",
+      "why": "Emplacements and utility. Excellent generalist for holding fuels and cutting lanes."
+    },
+    {
+      "id": "british_advanced_emplacement_company",
+      "name": "Advanced Emplacement Company",
+      "tier": "core",
+      "why": "Hardpoints and defensive mid. Fits maps where a 6-pdr / emplacement line wins the choke."
+    },
+    {
+      "id": "british_commando_company",
+      "name": "Commando Company",
+      "tier": "situational",
+      "why": "Flank infantry and raids. Good when the minimap shows long green edges."
+    },
+    {
+      "id": "british_artillery_company",
+      "name": "Royal Artillery Support",
+      "tier": "situational",
+      "why": "Map control via barrages when VPs sit behind cover you cannot comfortably walk."
+    },
+    {
+      "id": "british_weapons_company",
+      "name": "Weapons Company Tactics",
+      "tier": "flex",
+      "why": "Crewed weapons focus. Helps stabilize early MG/mortar wars."
+    }
+  ]
+}

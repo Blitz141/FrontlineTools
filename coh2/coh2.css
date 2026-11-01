@@ -1,0 +1,38 @@
+#map-panel .map-stage { min-height: 420px; }
+.coh-legend { display:flex; flex-wrap:wrap; gap:8px 14px; font-size:11px; color:var(--muted); margin:8px 0; }
+.coh-legend span { display:inline-flex; align-items:center; gap:5px; }
+.coh-legend i { width:10px; height:10px; border-radius:50%; display:inline-block; }
+.coh-dot-vp { background:#e0b84a; }
+.coh-dot-fuel { background:#6ea06a; }
+.coh-dot-munitions { background:#5b8fc7; }
+.coh-dot-territory { background:#8a9a8c; }
+.coh-dot-start { background:#c45c4a; }
+.coh-dot-cutoff { background:#c4a35a; }
+.build-steps { list-style:none; margin:0; padding:0; }
+.build-steps li {
+  display:grid; grid-template-columns:64px 1fr; gap:8px 12px;
+  padding:8px 0; border-bottom:1px solid rgba(47,61,50,.55); font-size:13px;
+}
+.build-steps .t { font-family:var(--mono); color:var(--accent); }
+.build-steps .item { font-weight:700; }
+.build-steps .note { grid-column:2; color:var(--muted); font-size:12px; margin-top:-4px; }
+.cmd-list { display:flex; flex-direction:column; gap:8px; }
+.cmd-card {
+  background:var(--bg3); border:1px solid var(--line); border-radius:3px; padding:10px 12px;
+}
+.cmd-card .tier {
+  font-size:10px; letter-spacing:.1em; text-transform:uppercase; color:var(--accent); margin-bottom:4px;
+}
+.cmd-card h3 { margin:0 0 4px; font-size:.95rem; color:var(--text); letter-spacing:0; text-transform:none; }
+.cmd-card p { margin:0; font-size:12px; color:var(--muted); line-height:1.4; }
+.phase-tabs { display:flex; gap:8px; flex-wrap:wrap; margin:8px 0 12px; }
+.phase-tabs button.active { filter:brightness(1.1); box-shadow:0 0 0 1px var(--accent); }
+.plan-goals { margin:0; padding-left:18px; }
+.plan-goals li { margin:4px 0; font-size:13px; }
+.faction-pill {
+  display:inline-block; padding:2px 8px; border-radius:3px; font-size:11px; letter-spacing:.06em;
+  text-transform:uppercase; border:1px solid var(--line);
+}
+#coh-stage .map-zoom-inner { display:flex; justify-content:center; width:100%; }
+#coh-frame { background:#000; max-width:100%; }
+#coh-img { width:100%; height:100%; object-fit:fill; display:block; }

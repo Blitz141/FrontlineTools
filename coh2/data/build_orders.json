@@ -1,0 +1,197 @@
+{
+  "ostheer": {
+    "title": "Ostheer standard 1v1 opener",
+    "source": "curated",
+    "steps": [
+      {
+        "t": "0:00",
+        "item": "Pioneer Squad",
+        "note": "Build HQ extras only as needed. Scout toward nearest fuel."
+      },
+      {
+        "t": "0:40",
+        "item": "Infanterie Squad x2",
+        "note": "Body for VPs and early MG cover."
+      },
+      {
+        "t": "1:30",
+        "item": "MG42 HMG",
+        "note": "Anchor a VP or cutoff. Avoid open field walks."
+      },
+      {
+        "t": "2:30",
+        "item": "Tier 1 / Mortar",
+        "note": "Mortar softens weapon teams; keep Pioneers repairing."
+      },
+      {
+        "t": "4:00",
+        "item": "Fuel first, then Pak or 251",
+        "note": "Read the map: Pak for armor pressure, flame/251 for bunkering infantry."
+      },
+      {
+        "t": "6:00",
+        "item": "StuG or Panzer IV timing",
+        "note": "Do not over-tech if you are down a fuel. Trade up with vision."
+      },
+      {
+        "t": "8:00+",
+        "item": "Doctrinal call-ins / Panther if long",
+        "note": "Spend munitions on upgrades you will use this minute, not the next ten."
+      }
+    ],
+    "adapt": "If early light vehicles dominate the lane, prioritize Pak and mines over a second support weapon. On dense green maps, lean MG + grenades before a pure armor spike."
+  },
+  "soviet": {
+    "title": "Soviet standard 1v1 opener",
+    "source": "curated",
+    "steps": [
+      {
+        "t": "0:00",
+        "item": "Conscripts x2-3",
+        "note": "Flood early VPs. Merge later; do not hoard."
+      },
+      {
+        "t": "1:00",
+        "item": "Combat Engineers",
+        "note": "Mines on fuel approaches, wire if a choke is obvious."
+      },
+      {
+        "t": "2:00",
+        "item": "Penals or Maxim",
+        "note": "Penals for buildings/green; Maxim to freeze a push."
+      },
+      {
+        "t": "3:30",
+        "item": "Tier 2 / AT Rifle or ZiS path",
+        "note": "Respect enemy light armor timing."
+      },
+      {
+        "t": "5:00",
+        "item": "T-70 then T-34",
+        "note": "T-70 for map move and soft targets; T-34 when fuel allows."
+      },
+      {
+        "t": "7:00",
+        "item": "Guards / Su-85 as needed",
+        "note": "Guards hold mid fights; Su-85 if heavy armor appears."
+      },
+      {
+        "t": "9:00+",
+        "item": "Doctrinal supports",
+        "note": "Keep Conscripts upgraded; replacements are cheaper than hero units."
+      }
+    ],
+    "adapt": "If the map is very open, skip a third early Conscript blob and reach T-70 sooner. In heavy cover, Penals and flamer engineers earn more than rushing mediums."
+  },
+  "okw": {
+    "title": "OKW standard 1v1 opener",
+    "source": "curated",
+    "steps": [
+      {
+        "t": "0:00",
+        "item": "Sturmpioneers",
+        "note": "Aggressive early. Place Mechanized HQ toward contested fuel when safe."
+      },
+      {
+        "t": "1:00",
+        "item": "Kubel / second infantry",
+        "note": "Vision and retreat path matter more than a greedy third building."
+      },
+      {
+        "t": "2:30",
+        "item": "Battlegroup HQ choice",
+        "note": "Mechanized for fuel maps; Infantry HQ when you need bodies and MG."
+      },
+      {
+        "t": "4:00",
+        "item": "Raketten or light armor",
+        "note": "Do not let enemy lights free-rotate your HQs."
+      },
+      {
+        "t": "6:00",
+        "item": "Medium pressure (Luchs/250 path into Panzer IV/Panther)",
+        "note": "OKW spikes hard if both fuels are healthy."
+      },
+      {
+        "t": "8:00+",
+        "item": "Doctrinal armor / fortifications",
+        "note": "Reset HQs if surrounded; a dead HQ is a lost tech tree."
+      }
+    ],
+    "adapt": "On cutoff-heavy maps, seed HQs deeper and play for one secure fuel rather than two greedy ones."
+  },
+  "usf": {
+    "title": "USF standard 1v1 opener",
+    "source": "curated",
+    "steps": [
+      {
+        "t": "0:00",
+        "item": "Riflemen x2",
+        "note": "Core of the faction. Keep them alive for mid upgrades."
+      },
+      {
+        "t": "1:00",
+        "item": "Lieutenant or Captain path",
+        "note": "Pick the leadership that matches whether you want early weapons or armor unlocks."
+      },
+      {
+        "t": "2:30",
+        "item": "MG / Sniper / Ambush as needed",
+        "note": "One support weapon is enough early; do not stall tech."
+      },
+      {
+        "t": "4:00",
+        "item": "Major unlock + light vehicle",
+        "note": "Scout car or WC51 for map move; watch Pak/AT guns."
+      },
+      {
+        "t": "6:00",
+        "item": "Sherman timing",
+        "note": "Only after fuel income is real. Support with rifle AT grenades/bazookas."
+      },
+      {
+        "t": "8:00+",
+        "item": "Doctrinal packages",
+        "note": "Airborne flanks or armor company spikes depending on commander."
+      }
+    ],
+    "adapt": "If the map denies safe vehicle paths, stay infantry-heavy longer and use captains/lieutenants aura fights around VPs."
+  },
+  "ukf": {
+    "title": "UKF standard 1v1 opener",
+    "source": "curated",
+    "steps": [
+      {
+        "t": "0:00",
+        "item": "Infantry Sections x2",
+        "note": "Early presence. Sapper follows for wire/mines/emplacements."
+      },
+      {
+        "t": "1:30",
+        "item": "Vickers HMG",
+        "note": "Anchor a VP. UKF wins many games by not giving free rotates."
+      },
+      {
+        "t": "3:00",
+        "item": "6-pounder / mortar",
+        "note": "AT gun for vehicle maps; mortar for weapon-team maps."
+      },
+      {
+        "t": "5:00",
+        "item": "Tech mid (Universal Carrier / Cromwell path)",
+        "note": "Keep emplacements relevant; do not abandon the gun line."
+      },
+      {
+        "t": "7:00",
+        "item": "Churchill or Comet plan",
+        "note": "Churchill for breakthrough/hold; Comet for mobile late."
+      },
+      {
+        "t": "9:00+",
+        "item": "Doctrinal emplacements / commandos",
+        "note": "Spend munitions on the section upgrades you fight with."
+      }
+    ],
+    "adapt": "Woodland flank maps reward Commando doctrine sooner. Open fuel maps reward earlier AT guns and carrier play."
+  }
+}

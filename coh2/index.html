@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CoH2 Faction Plan Desk</title>
+  <link rel="stylesheet" href="../app/styles.css" />
+  <link rel="stylesheet" href="../home.css" />
+  <link rel="stylesheet" href="coh2.css" />
+</head>
+<body>
+  <div class="wrap">
+    <nav class="site-nav">
+      <a href="../index.html">Home</a>
+      <a href="../app/index.html">WARNO</a>
+      <a class="active" href="index.html">CoH2</a>
+      <a href="../mods/index.html">Mods</a>
+    </nav>
+    <header>
+      <div class="tag">Company of Heroes 2 · Unofficial</div>
+      <h1>Faction Plan Desk</h1>
+      <p class="sub">Pick your faction and a map. No enemy picker: CoH2 is too swingy for rigid matchup scripts. You get a resource map, a general timed build order, and commander ideas for that faction (with light map notes).</p>
+    </header>
+
+    <section class="panel">
+      <div class="row">
+        <div>
+          <label for="faction">Your faction</label>
+          <select id="faction"></select>
+        </div>
+        <div>
+          <label for="map">Map</label>
+          <select id="map"></select>
+        </div>
+      </div>
+      <div class="actions">
+        <button type="button" id="go">Build plan</button>
+        <button type="button" class="secondary" id="example">Example: Soviets on Langres</button>
+      </div>
+      <div id="error"></div>
+      <p class="meta" id="data-note"></p>
+    </section>
+
+    <section id="results" hidden>
+      <div class="grid2">
+        <div class="panel" id="build-panel"></div>
+        <div class="panel" id="cmd-panel"></div>
+      </div>
+      <div class="panel" id="map-panel"></div>
+      <div class="panel" id="plan-panel"></div>
+    </section>
+
+    <footer>
+      <p>Minimaps and strategic point positions are copied from your local CoH2 <code>MPScenarios.sga</code> / <code>MPXP1Scenarios.sga</code> <code>.info</code> and <code>_mm_low.tga</code> files (read-only). Build orders and commander blurbs are curated from common 1v1 fundamentals, not invented unit stats. Commander file ids come from the game <code>AttribArchive</code> commander RGDs. Not affiliated with Relic Entertainment.</p>
+    </footer>
+  </div>
+  <script src="data.js"></script>
+  <script src="coh2.js"></script>
+</body>
+</html>

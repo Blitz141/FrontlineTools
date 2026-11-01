@@ -1,0 +1,1050 @@
+{
+  "crossing_in_the_woods": {
+    "name": "Crossing in the Woods",
+    "summary": "Wooded lanes and a central crossing. Ambush angles and flanks matter as much as raw VP sits.",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Scout both wood flanks",
+          "Plant early vision on the crossing",
+          "Take nearest munitions for grenade/mines fights"
+        ],
+        "marks_hint": "Do not park an HMG on the open crossing without flank cover."
+      },
+      "mid": {
+        "goals": [
+          "Win one wood flank",
+          "Pressure enemy fuel with light AT",
+          "Keep a retreat path through green"
+        ],
+        "marks_hint": "Mediums die cheaply if they crest the crossing blind."
+      },
+      "late": {
+        "goals": [
+          "Collapse a flank into their HQ path",
+          "Hold two VPs with weapon teams",
+          "Spend for a breakthrough piece"
+        ],
+        "marks_hint": "Late flanks beat frontal armor pushes here."
+      }
+    }
+  },
+  "faymonville_approach": {
+    "name": "Faymonville Approach",
+    "summary": "Ardennes approach map with layered cover. Infantry quality and flanks beat pure vehicle greed.",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Secure near resources",
+          "MG on a cover VP",
+          "Probe the approach lane"
+        ],
+        "marks_hint": "Do not donate a support weapon on the forward ridge."
+      },
+      "mid": {
+        "goals": [
+          "Win one approach lane",
+          "Light AT ready",
+          "Mortars vs weapon teams"
+        ],
+        "marks_hint": "Mid is a grind; upgrades matter."
+      },
+      "late": {
+        "goals": [
+          "Doctrinal flank or armor spike",
+          "Hold two VPs deep",
+          "Deny enemy reset"
+        ],
+        "marks_hint": "Late game rewards the side that still has munitions for abilities."
+      }
+    }
+  },
+  "kholodnaya_ferma": {
+    "name": "Kholodnaya Ferma",
+    "summary": "Eastern front fuel fight with open fields and farm cover. Vehicle timings punish slow tech.",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Rush nearest fuel",
+          "Use buildings for early MG",
+          "Avoid long field walks"
+        ],
+        "marks_hint": "Far fuel is a trap until you have map move."
+      },
+      "mid": {
+        "goals": [
+          "AT gun or light armor before enemy mediums",
+          "Mortar/grenade building holds",
+          "Contest mid VP only with support"
+        ],
+        "marks_hint": "Fields are kill zones; approach from farm cover."
+      },
+      "late": {
+        "goals": [
+          "Lock a fuel and raid the other",
+          "Doctrinal armor or AT answer",
+          "Do not chase into fog"
+        ],
+        "marks_hint": "One secure fuel + vision beats greedy double-fuel if you are behind."
+      }
+    }
+  },
+  "kholodnaya_ferma_spring": {
+    "name": "Kholodnaya Ferma (Spring)",
+    "summary": "Same skeleton as Ferma with spring sightlines. Treat fuels as the win condition.",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Fuel first",
+          "Infantry on mid VP",
+          "Mine obvious tank lanes"
+        ],
+        "marks_hint": "Same priorities as winter Ferma; watch longer sightlines."
+      },
+      "mid": {
+        "goals": [
+          "Medium timing with AT screen",
+          "Reset lost VPs quickly",
+          "Keep engineers on mines"
+        ],
+        "marks_hint": "Punish overextended lights on the roads."
+      },
+      "late": {
+        "goals": [
+          "Choose a side and collapse it",
+          "Hold VPs with depth",
+          "Answer enemy late armor"
+        ],
+        "marks_hint": "Do not split army across both fuels late."
+      }
+    }
+  },
+  "langres": {
+    "name": "Langres",
+    "summary": "Classic 1v1 with clear fuel wings and a mid VP fight. Green cover favors MG and mortar holds more than greedy lights.",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Secure nearest fuel",
+          "Contest mid VP with infantry + one support weapon",
+          "Mine the opposite fuel approach"
+        ],
+        "marks_hint": "Play your start side fuel first. Do not bleed for far fuel before tier 2."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize a cutoff if the enemy overextends",
+          "Bring medium armor only with vision",
+          "Trade munitions on upgrades that fight this minute"
+        ],
+        "marks_hint": "Mid VPs decide income; rotate through cover rather than road marches."
+      },
+      "late": {
+        "goals": [
+          "Pick one fuel to lock",
+          "Use doctrinal answer piece",
+          "Avoid 50/50 field fights without smoke/vision"
+        ],
+        "marks_hint": "Late game is about denying the enemy reset path to their remaining fuel."
+      }
+    }
+  },
+  "road_to_kharkov": {
+    "name": "Road to Kharkov",
+    "summary": "Road network and layered VPs. Cutoffs and fuel denial decide more than a single heroic push.",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take near fuel",
+          "Seed a cutoff threat",
+          "Scout the road spine"
+        ],
+        "marks_hint": "Road marches without vision get deleted."
+      },
+      "mid": {
+        "goals": [
+          "Fight for cutoff points",
+          "Bring AT before mediums",
+          "Use munitions for smoke/mines"
+        ],
+        "marks_hint": "A cutoff is often worth more than a third VP briefly."
+      },
+      "late": {
+        "goals": [
+          "Collapse the cut-off side",
+          "Late armor with infantry screen",
+          "Keep retreat to HQ clear"
+        ],
+        "marks_hint": "Win by starving fuel, not by chasing."
+      }
+    }
+  },
+  "amilly_fields": {
+    "name": "Amilly Fields",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "angoville_farms": {
+    "name": "Angoville Farms",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "arnhem_checkpoint": {
+    "name": "Arnhem Checkpoint",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "bayeux": {
+    "name": "Bayeux",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "bocage": {
+    "name": "Bocage",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "bombarded_refinery": {
+    "name": "Bombarded Refinery",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "bryansk_forest": {
+    "name": "Bryansk Forest",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "caen": {
+    "name": "Caen",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "cheneux": {
+    "name": "Cheneux",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "deutz": {
+    "name": "Deutz",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "divide": {
+    "name": "Divide",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "don_river": {
+    "name": "Don River",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "karelia": {
+    "name": "Karelia",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "la_gleize_breakout": {
+    "name": "La Gleize Breakout",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "ladoga_karelia": {
+    "name": "Ladoga Karelia",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "langres_winter": {
+    "name": "Langres (Winter)",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "market_ruins": {
+    "name": "Market Ruins",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "minsk_pocket": {
+    "name": "Minsk Pocket",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "mill_road": {
+    "name": "Molenweg",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "novgorodoutskirts": {
+    "name": "Novgorodoutskirts",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "rechnaya_pereprava": {
+    "name": "Rechnaya Pereprava",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "rustungswerke_essen": {
+    "name": "Rustungswerke Essen",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "semois": {
+    "name": "Semois",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "semois_winter": {
+    "name": "Semois Winter",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "southern_alblasserwaard": {
+    "name": "Southern Alblasserwaard",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "sturzdorf": {
+    "name": "Sturzdorf",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "terek_lines": {
+    "name": "Terek Lines",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  },
+  "westwall": {
+    "name": "Westwall",
+    "summary": "Auto plan from scenario points (2 fuel, 3 VP markers extracted). Priorities are general; refine after a few games on this layout.",
+    "source": "auto_from_info",
+    "phases": {
+      "opening": {
+        "goals": [
+          "Take nearest fuel or munitions",
+          "Contest a VP with infantry + one support",
+          "Scout enemy start lane"
+        ],
+        "marks_hint": "Follow resource markers on the tactical map."
+      },
+      "mid": {
+        "goals": [
+          "Stabilize income",
+          "Field an AT answer before mediums dominate",
+          "Trade through cover"
+        ],
+        "marks_hint": "Rotate between VPs; do not deathball without vision."
+      },
+      "late": {
+        "goals": [
+          "Lock a resource side",
+          "Use commander tools",
+          "Close on VPs with depth"
+        ],
+        "marks_hint": "Pick a win condition: fuel denial or VP grind."
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ostheer",
+    "name": "Wehrmacht (Ostheer)",
+    "short": "Ostheer",
+    "color": "#c4a35a",
+    "gameKey": "german",
+    "blurb": "Flexible mid-game tech. Strong MG suppression, mortars, and StuG/Panzer IV mid. Weak early light vehicle answer until Pak or flamer."
+  },
+  {
+    "id": "soviet",
+    "name": "Soviets",
+    "short": "Soviets",
+    "color": "#c45c4a",
+    "gameKey": "soviet",
+    "blurb": "Cheap bodies and strong mid armor (T-70/T-34). Conscripts + Penals set early pace. Needs AT answer before enemy mediums stabilize."
+  },
+  {
+    "id": "okw",
+    "name": "Oberkommando West",
+    "short": "OKW",
+    "color": "#8b7355",
+    "gameKey": "west_german",
+    "blurb": "Battlegroup HQs instead of a classic base. Strong late vehicles (Panther/JT) and infra. Vulnerable if early fuel/munitions denial sticks."
+  },
+  {
+    "id": "usf",
+    "name": "US Forces",
+    "short": "USF",
+    "color": "#5b8fc7",
+    "gameKey": "aef",
+    "blurb": "Riflemen core, captains/lieutenants for leadership, and strong combined arms. Pathfinders and major unlocks define mid timing."
+  },
+  {
+    "id": "ukf",
+    "name": "British Forces",
+    "short": "UKF",
+    "color": "#6ea06a",
+    "gameKey": "british",
+    "blurb": "Section infantry with emplacements and a tech-heavy mid. Vickers/6-pdr hold ground; Churchills and Comets close games."
+  }
+]

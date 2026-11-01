@@ -1,0 +1,274 @@
+[
+  {
+    "id": "crossing_in_the_woods",
+    "name": "Crossing in the Woods",
+    "players": 2,
+    "image": "maps/crossing_in_the_woods.png",
+    "hand_tuned": true,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "faymonville_approach",
+    "name": "Faymonville Approach",
+    "players": 2,
+    "image": "maps/faymonville_approach.png",
+    "hand_tuned": true,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "kholodnaya_ferma",
+    "name": "Kholodnaya Ferma",
+    "players": 2,
+    "image": "maps/kholodnaya_ferma.png",
+    "hand_tuned": true,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "kholodnaya_ferma_spring",
+    "name": "Kholodnaya Ferma (Spring)",
+    "players": 2,
+    "image": "maps/kholodnaya_ferma_spring.png",
+    "hand_tuned": true,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "langres",
+    "name": "Langres",
+    "players": 2,
+    "image": "maps/langres.png",
+    "hand_tuned": true,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "road_to_kharkov",
+    "name": "Road to Kharkov",
+    "players": 2,
+    "image": "maps/road_to_kharkov.png",
+    "hand_tuned": true,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "amilly_fields",
+    "name": "Amilly Fields",
+    "players": 2,
+    "image": "maps/amilly_fields.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "angoville_farms",
+    "name": "Angoville Farms",
+    "players": 2,
+    "image": "maps/angoville_farms.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "arnhem_checkpoint",
+    "name": "Arnhem Checkpoint",
+    "players": 2,
+    "image": "maps/arnhem_checkpoint.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "bayeux",
+    "name": "Bayeux",
+    "players": 2,
+    "image": "maps/bayeux.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "bocage",
+    "name": "Bocage",
+    "players": 2,
+    "image": "maps/bocage.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "bombarded_refinery",
+    "name": "Bombarded Refinery",
+    "players": 2,
+    "image": "maps/bombarded_refinery.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "bryansk_forest",
+    "name": "Bryansk Forest",
+    "players": 2,
+    "image": "maps/bryansk_forest.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "caen",
+    "name": "Caen",
+    "players": 2,
+    "image": "maps/caen.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "cheneux",
+    "name": "Cheneux",
+    "players": 4,
+    "image": "maps/cheneux.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "deutz",
+    "name": "Deutz",
+    "players": 2,
+    "image": "maps/deutz.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "divide",
+    "name": "Divide",
+    "players": 4,
+    "image": "maps/divide.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "don_river",
+    "name": "Don River",
+    "players": 4,
+    "image": "maps/don_river.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "karelia",
+    "name": "Karelia",
+    "players": 4,
+    "image": "maps/karelia.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "la_gleize_breakout",
+    "name": "La Gleize Breakout",
+    "players": 2,
+    "image": "maps/la_gleize_breakout.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "ladoga_karelia",
+    "name": "Ladoga Karelia",
+    "players": 2,
+    "image": "maps/ladoga_karelia.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "langres_winter",
+    "name": "Langres (Winter)",
+    "players": 2,
+    "image": "maps/langres_winter.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "market_ruins",
+    "name": "Market Ruins",
+    "players": 2,
+    "image": "maps/market_ruins.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "minsk_pocket",
+    "name": "Minsk Pocket",
+    "players": 2,
+    "image": "maps/minsk_pocket.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "mill_road",
+    "name": "Molenweg",
+    "players": 2,
+    "image": "maps/mill_road.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "novgorodoutskirts",
+    "name": "Novgorodoutskirts",
+    "players": 2,
+    "image": "maps/novgorodoutskirts.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "rechnaya_pereprava",
+    "name": "Rechnaya Pereprava",
+    "players": 2,
+    "image": "maps/rechnaya_pereprava.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "rustungswerke_essen",
+    "name": "Rustungswerke Essen",
+    "players": 2,
+    "image": "maps/rustungswerke_essen.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "semois",
+    "name": "Semois",
+    "players": 4,
+    "image": "maps/semois.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "semois_winter",
+    "name": "Semois Winter",
+    "players": 2,
+    "image": "maps/semois_winter.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "southern_alblasserwaard",
+    "name": "Southern Alblasserwaard",
+    "players": 2,
+    "image": "maps/southern_alblasserwaard.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "sturzdorf",
+    "name": "Sturzdorf",
+    "players": 2,
+    "image": "maps/sturzdorf.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "terek_lines",
+    "name": "Terek Lines",
+    "players": 4,
+    "image": "maps/terek_lines.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  },
+  {
+    "id": "westwall",
+    "name": "Westwall",
+    "players": 2,
+    "image": "maps/westwall.png",
+    "hand_tuned": false,
+    "source": "game_minimap+info"
+  }
+]

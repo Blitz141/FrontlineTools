@@ -1,0 +1,15 @@
+{
+  "source": "User WARNO install base.zip GameData",
+  "files": [
+    "DeckSerializer.ndf",
+    "Divisions.ndf",
+    "DivisionRules.ndf",
+    "UniteDescriptor.ndf"
+  ],
+  "fileDate": "2025-08-18",
+  "extracted": "2026-11-01",
+  "unitIdNote": "Deck-code unit IDs equal DeckSerializer numeric IDs + 1 (validated against division unit pools). Division IDs are used as-is.",
+  "unitCount": 2911,
+  "divisionCount": 386,
+  "divisionsWithPools": 72
+}

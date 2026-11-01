@@ -1,0 +1,6194 @@
+{
+  "amilly_fields": {
+    "points": [
+      {
+        "x": 26.25,
+        "y": 84.38,
+        "wx": -76.0,
+        "wy": -110.0,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 49.85,
+        "y": 50.14,
+        "wx": -0.46914,
+        "wy": -0.45207,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 84.38,
+        "y": 50.0,
+        "wx": 110.0,
+        "wy": 0.0,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 35.63,
+        "y": 66.87,
+        "wx": -45.97861,
+        "wy": -53.97358,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 75.71,
+        "y": 56.1,
+        "wx": 82.27586,
+        "wy": -19.53165,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 25.0,
+        "y": 43.75,
+        "wx": -80.0,
+        "wy": 20.0,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 40.15,
+        "y": 30.0,
+        "wx": -31.51791,
+        "wy": 63.98562,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 15.71,
+        "y": 50.0,
+        "wx": -109.72349,
+        "wy": 0.01498,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 64.45,
+        "y": 32.51,
+        "wx": 46.25304,
+        "wy": 55.97173,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 18.13,
+        "y": 67.5,
+        "wx": -102.0,
+        "wy": -56.0,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 49.94,
+        "y": 71.82,
+        "wx": -0.18367,
+        "wy": -69.81811,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 50.05,
+        "y": 28.25,
+        "wx": 0.15803,
+        "wy": 69.59985,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 25.16,
+        "y": 24.98,
+        "wx": -79.48811,
+        "wy": 80.06886,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 75.11,
+        "y": 32.45,
+        "wx": 80.34902,
+        "wy": 56.17531,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 60.03,
+        "y": 70.07,
+        "wx": 32.10032,
+        "wy": -64.23183,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 68.69,
+        "y": 42.08,
+        "wx": 59.81247,
+        "wy": 25.34116,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 75.0,
+        "y": 75.0,
+        "wx": 80.0,
+        "wy": -80.0,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 73.12,
+        "y": 15.62,
+        "wx": 74.0,
+        "wy": 110.0,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 29.89,
+        "y": 56.82,
+        "wx": -64.3643,
+        "wy": -21.8312,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      }
+    ],
+    "mapsize": [
+      320.0,
+      320.0
+    ],
+    "maxplayers": 2
+  },
+  "angoville_farms": {
+    "points": [
+      {
+        "x": 59.26,
+        "y": 86.62,
+        "wx": 29.64103,
+        "wy": -117.19711,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 50.11,
+        "y": 28.34,
+        "wx": 0.3371,
+        "wy": 69.3128,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 38.62,
+        "y": 40.96,
+        "wx": -36.43177,
+        "wy": 28.91441,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 16.5,
+        "y": 22.4,
+        "wx": -107.20922,
+        "wy": 88.3332,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 75.07,
+        "y": 73.3,
+        "wx": 80.22818,
+        "wy": -74.55789,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 84.9,
+        "y": 80.74,
+        "wx": 111.68185,
+        "wy": -98.366,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 64.82,
+        "y": 76.34,
+        "wx": 47.43388,
+        "wy": -84.29675,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 68.52,
+        "y": 54.47,
+        "wx": 59.27663,
+        "wy": -14.31302,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 37.99,
+        "y": 51.12,
+        "wx": -38.42708,
+        "wy": -3.59711,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 22.54,
+        "y": 52.72,
+        "wx": -87.88162,
+        "wy": -8.703,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 87.85,
+        "y": 52.2,
+        "wx": 121.1348,
+        "wy": -7.02513,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 52.57,
+        "y": 69.49,
+        "wx": 8.23696,
+        "wy": -62.35996,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 28.54,
+        "y": 28.84,
+        "wx": -68.66355,
+        "wy": 67.7126,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 17.8,
+        "y": 40.53,
+        "wx": -103.02486,
+        "wy": 30.30795,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 78.71,
+        "y": 61.3,
+        "wx": 91.87305,
+        "wy": -36.14571,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 37.62,
+        "y": 21.07,
+        "wx": -39.6305,
+        "wy": 92.56623,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 75.81,
+        "y": 20.54,
+        "wx": 82.58198,
+        "wy": 94.26169,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 23.71,
+        "y": 79.75,
+        "wx": -84.1191,
+        "wy": -95.20193,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 52.84,
+        "y": 41.7,
+        "wx": 9.09356,
+        "wy": 26.56737,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      }
+    ],
+    "mapsize": [
+      320.0,
+      320.0
+    ],
+    "maxplayers": 2
+  },
+  "arnhem_checkpoint": {
+    "points": [
+      {
+        "x": 18.47,
+        "y": 78.98,
+        "wx": -111.0,
+        "wy": -102.0,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 76.56,
+        "y": 23.61,
+        "wx": 93.50409,
+        "wy": 92.91022,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 48.17,
+        "y": 52.88,
+        "wx": -6.44726,
+        "wy": -10.14406,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 26.98,
+        "y": 32.05,
+        "wx": -81.0277,
+        "wy": 63.1958,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 70.35,
+        "y": 72.86,
+        "wx": 71.62352,
+        "wy": -80.46024,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 42.56,
+        "y": 78.04,
+        "wx": -26.1821,
+        "wy": -98.69708,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 40.21,
+        "y": 60.65,
+        "wx": -34.47101,
+        "wy": -37.49619,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 76.81,
+        "y": 53.73,
+        "wx": 94.37801,
+        "wy": -13.12547,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 41.31,
+        "y": 34.8,
+        "wx": -30.57568,
+        "wy": 53.51395,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 62.18,
+        "y": 83.36,
+        "wx": 42.86758,
+        "wy": -117.41007,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 17.83,
+        "y": 21.37,
+        "wx": -113.22112,
+        "wy": 100.78582,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 54.67,
+        "y": 22.24,
+        "wx": 16.43291,
+        "wy": 97.7173,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 55.42,
+        "y": 41.52,
+        "wx": 19.08329,
+        "wy": 29.85361,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 37.06,
+        "y": 47.26,
+        "wx": -45.54532,
+        "wy": 9.62868,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 62.69,
+        "y": 56.94,
+        "wx": 44.683,
+        "wy": -24.43642,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 55.29,
+        "y": 68.84,
+        "wx": 18.62124,
+        "wy": -66.33043,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 21.49,
+        "y": 48.66,
+        "wx": -100.35857,
+        "wy": 4.70629,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 35.34,
+        "y": 17.79,
+        "wx": -51.5884,
+        "wy": 113.39407,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 80.99,
+        "y": 81.09,
+        "wx": 109.08838,
+        "wy": -109.43781,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      }
+    ],
+    "mapsize": [
+      352.0,
+      352.0
+    ],
+    "maxplayers": 2
+  },
+  "bayeux": {
+    "points": [
+      {
+        "x": 51.33,
+        "y": 51.38,
+        "wx": 3.39424,
+        "wy": -3.96224,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 15.27,
+        "y": 22.47,
+        "wx": -88.9019,
+        "wy": 79.27926,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 14.05,
+        "y": 45.1,
+        "wx": -92.02306,
+        "wy": 14.10338,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 26.63,
+        "y": 50.0,
+        "wx": -59.82209,
+        "wy": -0.01257,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 42.28,
+        "y": 22.95,
+        "wx": -19.7544,
+        "wy": 77.90597,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 18.05,
+        "y": 59.01,
+        "wx": -81.78844,
+        "wy": -25.94323,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 28.8,
+        "y": 78.29,
+        "wx": -54.27814,
+        "wy": -81.46151,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 33.35,
+        "y": 62.43,
+        "wx": -42.61158,
+        "wy": -35.80835,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 42.27,
+        "y": 76.43,
+        "wx": -19.77757,
+        "wy": -76.11739,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 47.59,
+        "y": 62.55,
+        "wx": -6.16342,
+        "wy": -36.15248,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 51.54,
+        "y": 38.29,
+        "wx": 3.94693,
+        "wy": 33.72604,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 57.47,
+        "y": 23.42,
+        "wx": 19.12232,
+        "wy": 76.53895,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 67.85,
+        "y": 38.95,
+        "wx": 45.7044,
+        "wy": 31.82707,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 71.47,
+        "y": 24.16,
+        "wx": 54.97479,
+        "wy": 74.42763,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 83.54,
+        "y": 41.78,
+        "wx": 85.8583,
+        "wy": 23.66202,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 80.56,
+        "y": 80.58,
+        "wx": 78.24578,
+        "wy": -88.06425,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 87.38,
+        "y": 57.13,
+        "wx": 95.6969,
+        "wy": -20.53457,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 57.9,
+        "y": 82.11,
+        "wx": 20.22869,
+        "wy": -92.46708,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 74.88,
+        "y": 52.31,
+        "wx": 63.68596,
+        "wy": -6.66442,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      }
+    ],
+    "mapsize": [
+      256.0,
+      288.0
+    ],
+    "maxplayers": 2
+  },
+  "bocage": {
+    "points": [
+      {
+        "x": 21.89,
+        "y": 76.09,
+        "wx": -98.9493,
+        "wy": -91.8253,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 45.59,
+        "y": 65.72,
+        "wx": -15.51348,
+        "wy": -55.32133,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 63.16,
+        "y": 41.69,
+        "wx": 46.33963,
+        "wy": 29.2576,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 35.34,
+        "y": 56.14,
+        "wx": -51.58616,
+        "wy": -21.59845,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 48.78,
+        "y": 31.15,
+        "wx": -4.31076,
+        "wy": 66.36631,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 63.48,
+        "y": 62.77,
+        "wx": 47.43392,
+        "wy": -44.96477,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 32.68,
+        "y": 34.1,
+        "wx": -60.95573,
+        "wy": 55.9855,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 57.21,
+        "y": 72.96,
+        "wx": 25.36439,
+        "wy": -80.81132,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 64.31,
+        "y": 52.13,
+        "wx": 50.37368,
+        "wy": -7.50108,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 29.65,
+        "y": 45.56,
+        "wx": -71.63004,
+        "wy": 15.64469,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 40.44,
+        "y": 23.96,
+        "wx": -33.66824,
+        "wy": 91.65527,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 55.28,
+        "y": 16.65,
+        "wx": 18.57908,
+        "wy": 117.40273,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 77.13,
+        "y": 45.89,
+        "wx": 95.50718,
+        "wy": 14.48362,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 49.31,
+        "y": 81.63,
+        "wx": -2.41877,
+        "wy": -111.35318,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 75.44,
+        "y": 58.37,
+        "wx": 89.53848,
+        "wy": -29.45991,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 21.98,
+        "y": 37.38,
+        "wx": -98.64798,
+        "wy": 44.40793,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 74.71,
+        "y": 21.19,
+        "wx": 86.97401,
+        "wy": 101.39466,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 22.59,
+        "y": 58.1,
+        "wx": -96.47861,
+        "wy": -28.51658,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 47.76,
+        "y": 49.01,
+        "wx": -7.88565,
+        "wy": 3.47507,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      }
+    ],
+    "mapsize": [
+      352.0,
+      352.0
+    ],
+    "maxplayers": 2
+  },
+  "bombarded_refinery": {
+    "points": [
+      {
+        "x": 24.73,
+        "y": 20.18,
+        "wx": -64.68761,
+        "wy": 95.43677,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 74.68,
+        "y": 80.1,
+        "wx": 63.18239,
+        "wy": -96.3084,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 27.96,
+        "y": 66.94,
+        "wx": -56.41209,
+        "wy": -54.22046,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 15.12,
+        "y": 70.35,
+        "wx": -89.28434,
+        "wy": -65.11356,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 85.34,
+        "y": 30.39,
+        "wx": 90.45853,
+        "wy": 62.74862,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 49.77,
+        "y": 50.2,
+        "wx": -0.58564,
+        "wy": -0.64634,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 22.38,
+        "y": 41.71,
+        "wx": -70.71923,
+        "wy": 26.51353,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 39.12,
+        "y": 83.65,
+        "wx": -27.85524,
+        "wy": -107.66677,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 60.22,
+        "y": 68.72,
+        "wx": 26.17169,
+        "wy": -59.90789,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 41.78,
+        "y": 33.52,
+        "wx": -21.04034,
+        "wy": 52.72602,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 76.83,
+        "y": 58.86,
+        "wx": 68.68514,
+        "wy": -28.35468,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 60.17,
+        "y": 16.98,
+        "wx": 26.0336,
+        "wy": 105.66646,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 81.6,
+        "y": 14.88,
+        "wx": 80.88422,
+        "wy": 112.39244,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 17.27,
+        "y": 85.39,
+        "wx": -83.79625,
+        "wy": -113.23492,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 71.08,
+        "y": 33.05,
+        "wx": 53.97387,
+        "wy": 54.25272,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 52.9,
+        "y": 39.42,
+        "wx": 7.41975,
+        "wy": 33.86681,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 48.13,
+        "y": 62.89,
+        "wx": -4.7824,
+        "wy": -41.25547,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      }
+    ],
+    "mapsize": [
+      256.0,
+      320.0
+    ],
+    "maxplayers": 2
+  },
+  "bryansk_forest": {
+    "points": [
+      {
+        "x": 36.38,
+        "y": 22.56,
+        "wx": -47.95359,
+        "wy": 96.59585,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 53.07,
+        "y": 27.9,
+        "wx": 10.81224,
+        "wy": 77.80034,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 70.75,
+        "y": 78.68,
+        "wx": 73.02615,
+        "wy": -100.96025,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 39.6,
+        "y": 39.83,
+        "wx": -36.62322,
+        "wy": 35.794,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 46.9,
+        "y": 50.69,
+        "wx": -10.89481,
+        "wy": -2.43918,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 53.31,
+        "y": 64.66,
+        "wx": 11.65142,
+        "wy": -51.59333,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 20.21,
+        "y": 20.03,
+        "wx": -104.86823,
+        "wy": 105.4977,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 30.13,
+        "y": 31.71,
+        "wx": -69.92856,
+        "wy": 64.38014,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 62.3,
+        "y": 69.78,
+        "wx": 43.29576,
+        "wy": -69.63543,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 17.81,
+        "y": 33.17,
+        "wx": -113.30528,
+        "wy": 59.22852,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 73.19,
+        "y": 65.99,
+        "wx": 81.63559,
+        "wy": -56.28685,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 74.92,
+        "y": 52.1,
+        "wx": 87.72106,
+        "wy": -7.39448,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 26.16,
+        "y": 54.09,
+        "wx": -83.91032,
+        "wy": -14.40776,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 58.04,
+        "y": 38.69,
+        "wx": 28.29629,
+        "wy": 39.79889,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 56.54,
+        "y": 77.56,
+        "wx": 23.00776,
+        "wy": -97.02026,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 34.49,
+        "y": 62.52,
+        "wx": -54.60044,
+        "wy": -44.07625,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 41.19,
+        "y": 72.93,
+        "wx": -31.01029,
+        "wy": -80.69656,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 14.64,
+        "y": 76.09,
+        "wx": -124.45474,
+        "wy": -91.84077,
+        "owner": 1003,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 75.57,
+        "y": 22.16,
+        "wx": 90.0,
+        "wy": 98.0,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      }
+    ],
+    "mapsize": [
+      352.0,
+      352.0
+    ],
+    "maxplayers": 2
+  },
+  "caen": {
+    "points": [
+      {
+        "x": 20.74,
+        "y": 71.03,
+        "wx": -131.06787,
+        "wy": -94.22977,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 45.13,
+        "y": 33.99,
+        "wx": -21.80217,
+        "wy": 71.73108,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 77.16,
+        "y": 61.35,
+        "wx": 121.65834,
+        "wy": -50.83234,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 78.89,
+        "y": 33.31,
+        "wx": 129.43002,
+        "wy": 74.79122,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 51.27,
+        "y": 52.05,
+        "wx": 5.70177,
+        "wy": -9.18324,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 34.89,
+        "y": 29.98,
+        "wx": -67.69463,
+        "wy": 89.70783,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 65.38,
+        "y": 70.51,
+        "wx": 68.89662,
+        "wy": -91.87025,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 21.55,
+        "y": 53.47,
+        "wx": -127.4501,
+        "wy": -15.53752,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 43.25,
+        "y": 74.9,
+        "wx": -30.22001,
+        "wy": -111.53513,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 71.32,
+        "y": 77.84,
+        "wx": 95.51292,
+        "wy": -124.72736,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 55.82,
+        "y": 32.9,
+        "wx": 26.06804,
+        "wy": 76.59505,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 53.59,
+        "y": 27.14,
+        "wx": 16.0748,
+        "wy": 102.39677,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 27.07,
+        "y": 25.51,
+        "wx": -102.73602,
+        "wy": 109.72073,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 61.68,
+        "y": 58.94,
+        "wx": 52.33652,
+        "wy": -40.07289,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 77.97,
+        "y": 51.72,
+        "wx": 125.28807,
+        "wy": -7.68718,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 23.78,
+        "y": 43.22,
+        "wx": -117.44841,
+        "wy": 30.3903,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 53.5,
+        "y": 71.07,
+        "wx": 15.68629,
+        "wy": -94.40329,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 38.19,
+        "y": 46.28,
+        "wx": -52.90054,
+        "wy": 16.65069,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 55.89,
+        "y": 78.6,
+        "wx": 26.39554,
+        "wy": -128.1209,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      }
+    ],
+    "mapsize": [
+      448.0,
+      448.0
+    ],
+    "maxplayers": 2
+  },
+  "cheneux": {
+    "points": [
+      {
+        "x": 23.8,
+        "y": 20.3,
+        "wx": -92.22744,
+        "wy": 104.55515,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 73.95,
+        "y": 88.39,
+        "wx": 84.29544,
+        "wy": -135.12457,
+        "owner": 1002,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 42.2,
+        "y": 55.84,
+        "wx": -27.44596,
+        "wy": -20.5618,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 71.31,
+        "y": 41.3,
+        "wx": 75.00355,
+        "wy": 30.62302,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 85.3,
+        "y": 82.74,
+        "wx": 124.26563,
+        "wy": -115.23806,
+        "owner": 1003,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 12.36,
+        "y": 26.37,
+        "wx": -132.50459,
+        "wy": 83.17445,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 29.16,
+        "y": 69.69,
+        "wx": -73.3541,
+        "wy": -69.32129,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 53.06,
+        "y": 60.98,
+        "wx": 10.76899,
+        "wy": -38.65458,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 12.24,
+        "y": 72.06,
+        "wx": -132.90173,
+        "wy": -77.66198,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 30.87,
+        "y": 47.83,
+        "wx": -67.34833,
+        "wy": 7.62558,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 19.44,
+        "y": 60.58,
+        "wx": -107.58854,
+        "wy": -37.22519,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 40.63,
+        "y": 78.76,
+        "wx": -32.98536,
+        "wy": -101.25134,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 29.02,
+        "y": 88.31,
+        "wx": -73.84427,
+        "wy": -134.84621,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 57.57,
+        "y": 27.1,
+        "wx": 26.66127,
+        "wy": 80.60777,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 77.76,
+        "y": 24.44,
+        "wx": 97.71281,
+        "wy": 89.96651,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 57.84,
+        "y": 40.04,
+        "wx": 27.58817,
+        "wy": 35.05493,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 65.08,
+        "y": 50.09,
+        "wx": 53.06659,
+        "wy": -0.31522,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 42.04,
+        "y": 20.77,
+        "wx": -28.0239,
+        "wy": 102.8836,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 77.66,
+        "y": 60.02,
+        "wx": 97.35235,
+        "wy": -35.26406,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 46.37,
+        "y": 34.36,
+        "wx": -12.79476,
+        "wy": 55.05,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      }
+    ],
+    "mapsize": [
+      352.0,
+      352.0
+    ],
+    "maxplayers": 4
+  },
+  "crossing_in_the_woods": {
+    "points": [
+      {
+        "x": 26.85,
+        "y": 55.56,
+        "wx": -81.47796,
+        "wy": -19.56963,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 64.17,
+        "y": 46.46,
+        "wx": 49.87939,
+        "wy": 12.47449,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 71.34,
+        "y": 79.75,
+        "wx": 75.10976,
+        "wy": -104.7024,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 40.22,
+        "y": 35.94,
+        "wx": -34.4231,
+        "wy": 49.49086,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 47.03,
+        "y": 51.64,
+        "wx": -10.43924,
+        "wy": -5.7878,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 49.65,
+        "y": 66.06,
+        "wx": -1.24379,
+        "wy": -56.54018,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 18.82,
+        "y": 22.55,
+        "wx": -109.74216,
+        "wy": 96.61944,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 29.82,
+        "y": 30.7,
+        "wx": -71.03429,
+        "wy": 67.94334,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 61.08,
+        "y": 71.87,
+        "wx": 38.99416,
+        "wy": -76.98709,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 12.57,
+        "y": 34.89,
+        "wx": -131.76692,
+        "wy": 53.19851,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 77.54,
+        "y": 70.05,
+        "wx": 96.9407,
+        "wy": -70.57594,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 70.46,
+        "y": 57.35,
+        "wx": 72.01598,
+        "wy": -25.87874,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 22.48,
+        "y": 44.35,
+        "wx": -96.87825,
+        "wy": 19.8824,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 31.81,
+        "y": 67.22,
+        "wx": -64.02177,
+        "wy": -60.61174,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 58.73,
+        "y": 33.18,
+        "wx": 30.7346,
+        "wy": 59.21554,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 42.12,
+        "y": 19.68,
+        "wx": -27.74683,
+        "wy": 106.72768,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 48.66,
+        "y": 81.35,
+        "wx": -4.70148,
+        "wy": -110.35216,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 71.92,
+        "y": 29.14,
+        "wx": 77.15792,
+        "wy": 73.41351,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 18.09,
+        "y": 73.77,
+        "wx": -112.33343,
+        "wy": -83.68662,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      }
+    ],
+    "mapsize": [
+      352.0,
+      352.0
+    ],
+    "maxplayers": 2
+  },
+  "deutz": {
+    "points": [
+      {
+        "x": 19.64,
+        "y": 18.94,
+        "wx": -97.15038,
+        "wy": 99.38821,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 67.29,
+        "y": 82.3,
+        "wx": 55.33916,
+        "wy": -103.36689,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 29.26,
+        "y": 80.67,
+        "wx": -66.37749,
+        "wy": -98.14597,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 44.65,
+        "y": 50.23,
+        "wx": -17.11392,
+        "wy": -0.73615,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 26.39,
+        "y": 61.74,
+        "wx": -75.56632,
+        "wy": -37.5683,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 63.41,
+        "y": 40.48,
+        "wx": 42.9022,
+        "wy": 30.46906,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 51.72,
+        "y": 41.81,
+        "wx": 5.50343,
+        "wy": 26.20354,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 36.4,
+        "y": 58.87,
+        "wx": -43.52194,
+        "wy": -28.37973,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 20.37,
+        "y": 49.56,
+        "wx": -94.81934,
+        "wy": 1.41483,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 49.93,
+        "y": 62.92,
+        "wx": -0.23034,
+        "wy": -41.35786,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 42.04,
+        "y": 73.32,
+        "wx": -25.46877,
+        "wy": -74.60932,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 45.43,
+        "y": 29.02,
+        "wx": -14.62369,
+        "wy": 67.12211,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 67.03,
+        "y": 31.39,
+        "wx": 54.49961,
+        "wy": 59.55712,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 38.02,
+        "y": 40.07,
+        "wx": -38.34863,
+        "wy": 31.76553,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 60.82,
+        "y": 20.71,
+        "wx": 34.61885,
+        "wy": 93.72972,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 46.32,
+        "y": 84.2,
+        "wx": -11.77639,
+        "wy": -109.42423,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 39.57,
+        "y": 20.45,
+        "wx": -33.38956,
+        "wy": 94.55929,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 69.25,
+        "y": 50.7,
+        "wx": 61.58756,
+        "wy": -2.2448,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 19.56,
+        "y": 70.85,
+        "wx": -97.39655,
+        "wy": -66.72146,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      }
+    ],
+    "mapsize": [
+      320.0,
+      320.0
+    ],
+    "maxplayers": 2
+  },
+  "divide": {
+    "points": [
+      {
+        "x": 50.65,
+        "y": 48.47,
+        "wx": 2.92244,
+        "wy": 5.86037,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 50.51,
+        "y": 36.48,
+        "wx": 2.29843,
+        "wy": 51.90583,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 50.15,
+        "y": 63.62,
+        "wx": 0.66748,
+        "wy": -52.30758,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 62.66,
+        "y": 81.02,
+        "wx": 56.70902,
+        "wy": -119.10145,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 39.13,
+        "y": 23.94,
+        "wx": -48.71642,
+        "wy": 100.05296,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 74.13,
+        "y": 74.22,
+        "wx": 108.10863,
+        "wy": -93.00028,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 24.61,
+        "y": 26.01,
+        "wx": -113.74583,
+        "wy": 92.11603,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 45.14,
+        "y": 79.65,
+        "wx": -21.76982,
+        "wy": -113.85521,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 54.8,
+        "y": 21.87,
+        "wx": 21.5031,
+        "wy": 108.02625,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 38.09,
+        "y": 61.71,
+        "wx": -53.34381,
+        "wy": -44.97679,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 62.4,
+        "y": 39.32,
+        "wx": 55.56472,
+        "wy": 41.00824,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 23.4,
+        "y": 63.98,
+        "wx": -119.1697,
+        "wy": -53.66486,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 74.13,
+        "y": 36.54,
+        "wx": 108.11854,
+        "wy": 51.688,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 28.6,
+        "y": 41.74,
+        "wx": -95.87434,
+        "wy": 31.7202,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 13.82,
+        "y": 40.0,
+        "wx": -162.10692,
+        "wy": 38.39044,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 85.72,
+        "y": 60.43,
+        "wx": 160.0137,
+        "wy": -40.05666,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 71.41,
+        "y": 58.26,
+        "wx": 95.89668,
+        "wy": -31.73696,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 9.03,
+        "y": 67.04,
+        "wx": -183.54344,
+        "wy": -65.45013,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 9.89,
+        "y": 74.94,
+        "wx": -179.69852,
+        "wy": -95.77276,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 90.56,
+        "y": 35.38,
+        "wx": 181.70227,
+        "wy": 56.14043,
+        "owner": 1002,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 88.08,
+        "y": 26.17,
+        "wx": 170.61368,
+        "wy": 91.49952,
+        "owner": 1003,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      }
+    ],
+    "mapsize": [
+      448.0,
+      384.0
+    ],
+    "maxplayers": 4
+  },
+  "don_river": {
+    "points": [
+      {
+        "x": 24.45,
+        "y": 78.51,
+        "wx": -98.10255,
+        "wy": -109.47356,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 76.75,
+        "y": 77.97,
+        "wx": 102.71855,
+        "wy": -107.40695,
+        "owner": 1002,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 84.64,
+        "y": 69.53,
+        "wx": 133.0,
+        "wy": -75.0,
+        "owner": 1003,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 72.87,
+        "y": 16.72,
+        "wx": 87.8171,
+        "wy": 127.77932,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 17.43,
+        "y": 44.83,
+        "wx": -125.05979,
+        "wy": 19.84207,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 26.52,
+        "y": 35.36,
+        "wx": -90.15269,
+        "wy": 56.21694,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 17.26,
+        "y": 54.77,
+        "wx": -125.70821,
+        "wy": -18.33241,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 36.87,
+        "y": 80.83,
+        "wx": -50.43539,
+        "wy": -118.38673,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 84.23,
+        "y": 36.0,
+        "wx": 131.42549,
+        "wy": 53.77858,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 61.04,
+        "y": 47.31,
+        "wx": 42.40034,
+        "wy": 10.33922,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 41.42,
+        "y": 47.01,
+        "wx": -32.93362,
+        "wy": 11.48402,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 78.61,
+        "y": 27.08,
+        "wx": 109.87563,
+        "wy": 88.01405,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 56.32,
+        "y": 43.5,
+        "wx": 24.26152,
+        "wy": 24.97876,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 46.54,
+        "y": 38.24,
+        "wx": -13.27917,
+        "wy": 45.17429,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 65.34,
+        "y": 37.67,
+        "wx": 58.89769,
+        "wy": 47.33762,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 63.05,
+        "y": 72.47,
+        "wx": 50.12616,
+        "wy": -86.29949,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 81.4,
+        "y": 57.66,
+        "wx": 120.5683,
+        "wy": -29.42619,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 14.73,
+        "y": 24.04,
+        "wx": -135.44543,
+        "wy": 99.68376,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 55.98,
+        "y": 21.62,
+        "wx": 22.95169,
+        "wy": 108.99037,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 29.09,
+        "y": 21.22,
+        "wx": -80.2924,
+        "wy": 110.53036,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 16.13,
+        "y": 71.63,
+        "wx": -130.0434,
+        "wy": -83.06886,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      }
+    ],
+    "mapsize": [
+      384.0,
+      384.0
+    ],
+    "maxplayers": 4
+  },
+  "faymonville_approach": {
+    "points": [
+      {
+        "x": 77.51,
+        "y": 77.23,
+        "wx": 105.62052,
+        "wy": -87.1506,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 32.94,
+        "y": 67.59,
+        "wx": -65.50721,
+        "wy": -56.27709,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 69.28,
+        "y": 29.86,
+        "wx": 74.02072,
+        "wy": 64.45261,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 80.6,
+        "y": 59.2,
+        "wx": 117.49067,
+        "wy": -29.43312,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 17.49,
+        "y": 43.28,
+        "wx": -124.85477,
+        "wy": 21.51423,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 56.09,
+        "y": 38.27,
+        "wx": 23.39316,
+        "wy": 37.52274,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 60.28,
+        "y": 53.67,
+        "wx": 39.47429,
+        "wy": -11.75117,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 48.43,
+        "y": 60.82,
+        "wx": -6.01819,
+        "wy": -34.63082,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 61.78,
+        "y": 70.31,
+        "wx": 45.2373,
+        "wy": -65.00204,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 24.21,
+        "y": 19.68,
+        "wx": -99.02858,
+        "wy": 97.01147,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 55.91,
+        "y": 17.24,
+        "wx": 22.71318,
+        "wy": 104.84758,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 45.0,
+        "y": 83.13,
+        "wx": -19.18563,
+        "wy": -106.01025,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 46.88,
+        "y": 49.06,
+        "wx": -12.0,
+        "wy": 3.0,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 38.26,
+        "y": 44.61,
+        "wx": -45.07672,
+        "wy": 17.24844,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 29.57,
+        "y": 41.43,
+        "wx": -78.45732,
+        "wy": 27.41992,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 21.42,
+        "y": 55.56,
+        "wx": -109.72907,
+        "wy": -17.78307,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 77.01,
+        "y": 46.34,
+        "wx": 103.70492,
+        "wy": 11.70499,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 40.02,
+        "y": 28.1,
+        "wx": -38.31202,
+        "wy": 70.06879,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 69.74,
+        "y": 59.15,
+        "wx": 75.80711,
+        "wy": -29.2658,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      }
+    ],
+    "mapsize": [
+      384.0,
+      320.0
+    ],
+    "maxplayers": 2
+  },
+  "karelia": {
+    "points": [
+      {
+        "x": 14.73,
+        "y": 37.84,
+        "wx": -124.16443,
+        "wy": 42.79893,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 81.09,
+        "y": 47.44,
+        "wx": 109.43517,
+        "wy": 9.02016,
+        "owner": 1003,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 48.66,
+        "y": 62.68,
+        "wx": -4.72834,
+        "wy": -44.63894,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 35.43,
+        "y": 13.59,
+        "wx": -51.27483,
+        "wy": 128.16483,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 61.26,
+        "y": 86.93,
+        "wx": 39.64008,
+        "wy": -129.99309,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 67.34,
+        "y": 13.93,
+        "wx": 61.0324,
+        "wy": 126.97662,
+        "owner": 0,
+        "ebp": "territory_fuel_point",
+        "kind": "fuel"
+      },
+      {
+        "x": 23.08,
+        "y": 86.49,
+        "wx": -94.74957,
+        "wy": -128.45395,
+        "owner": 0,
+        "ebp": "territory_fuel_point",
+        "kind": "fuel"
+      },
+      {
+        "x": 41.94,
+        "y": 44.62,
+        "wx": -28.38235,
+        "wy": 18.94303,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 58.34,
+        "y": 48.21,
+        "wx": 29.36665,
+        "wy": 6.30087,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 77.82,
+        "y": 83.51,
+        "wx": 97.92439,
+        "wy": -117.96516,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 64.31,
+        "y": 69.5,
+        "wx": 50.37559,
+        "wy": -68.63205,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 67.53,
+        "y": 50.91,
+        "wx": 61.71977,
+        "wy": -3.18954,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 67.78,
+        "y": 30.76,
+        "wx": 62.58304,
+        "wy": 67.70882,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 84.88,
+        "y": 23.64,
+        "wx": 122.76398,
+        "wy": 92.78114,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 54.26,
+        "y": 26.79,
+        "wx": 15.00813,
+        "wy": 81.69566,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 17.17,
+        "y": 16.8,
+        "wx": -115.55143,
+        "wy": 116.8499,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 18.98,
+        "y": 69.04,
+        "wx": -109.18192,
+        "wy": -67.03271,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 31.96,
+        "y": 63.87,
+        "wx": -63.49936,
+        "wy": -48.80786,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 41.03,
+        "y": 79.71,
+        "wx": -31.56136,
+        "wy": -104.58693,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 32.08,
+        "y": 31.56,
+        "wx": -63.08244,
+        "wy": 64.89865,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 17.84,
+        "y": 48.3,
+        "wx": -113.22066,
+        "wy": 5.99673,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 84.02,
+        "y": 60.69,
+        "wx": 119.76242,
+        "wy": -37.61612,
+        "owner": 1002,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      }
+    ],
+    "mapsize": [
+      352.0,
+      352.0
+    ],
+    "maxplayers": 4
+  },
+  "kholodnaya_ferma": {
+    "points": [
+      {
+        "x": 23.95,
+        "y": 77.81,
+        "wx": -100.02934,
+        "wy": -106.79996,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 58.74,
+        "y": 66.52,
+        "wx": 33.57339,
+        "wy": -63.41839,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 45.57,
+        "y": 46.17,
+        "wx": -17.00203,
+        "wy": 14.69462,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 73.68,
+        "y": 75.04,
+        "wx": 90.94069,
+        "wy": -96.17042,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 39.74,
+        "y": 73.26,
+        "wx": -39.41435,
+        "wy": -89.32957,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 74.33,
+        "y": 24.89,
+        "wx": 93.43288,
+        "wy": 96.41463,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 45.02,
+        "y": 63.25,
+        "wx": -19.12877,
+        "wy": -50.89313,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 35.3,
+        "y": 60.03,
+        "wx": -56.46466,
+        "wy": -38.49783,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 38.66,
+        "y": 35.41,
+        "wx": -43.54308,
+        "wy": 56.04228,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 77.76,
+        "y": 35.52,
+        "wx": 106.6036,
+        "wy": 55.59966,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 23.65,
+        "y": 64.8,
+        "wx": -101.18435,
+        "wy": -56.84368,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 54.04,
+        "y": 30.55,
+        "wx": 15.50572,
+        "wy": 74.68494,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 20.8,
+        "y": 45.12,
+        "wx": -112.1254,
+        "wy": 18.74217,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 51.42,
+        "y": 78.49,
+        "wx": 5.44491,
+        "wy": -109.39787,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 68.52,
+        "y": 53.51,
+        "wx": 71.10543,
+        "wy": -13.4763,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 60.36,
+        "y": 42.37,
+        "wx": 39.77296,
+        "wy": 29.29245,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 63.99,
+        "y": 24.28,
+        "wx": 53.72511,
+        "wy": 98.75211,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 24.71,
+        "y": 22.85,
+        "wx": -97.11404,
+        "wy": 104.26232,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 31.82,
+        "y": 50.56,
+        "wx": -69.80254,
+        "wy": -2.1442,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      }
+    ],
+    "mapsize": [
+      384.0,
+      384.0
+    ],
+    "maxplayers": 2
+  },
+  "kholodnaya_ferma_spring": {
+    "points": [
+      {
+        "x": 45.05,
+        "y": 50.58,
+        "wx": -19.02127,
+        "wy": -2.24134,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 60.52,
+        "y": 42.56,
+        "wx": 40.3856,
+        "wy": 28.56262,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 55.15,
+        "y": 32.05,
+        "wx": 19.78228,
+        "wy": 68.93347,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 73.71,
+        "y": 76.75,
+        "wx": 91.04373,
+        "wy": -102.71315,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 24.14,
+        "y": 78.31,
+        "wx": -99.29523,
+        "wy": -108.69794,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 46.35,
+        "y": 65.44,
+        "wx": -14.00646,
+        "wy": -59.30347,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 21.41,
+        "y": 44.45,
+        "wx": -109.783,
+        "wy": 21.30145,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 50.34,
+        "y": 77.67,
+        "wx": 1.32034,
+        "wy": -106.2691,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 58.43,
+        "y": 66.09,
+        "wx": 32.36404,
+        "wy": -61.7992,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 30.95,
+        "y": 50.37,
+        "wx": -73.13493,
+        "wy": -1.41277,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 38.58,
+        "y": 35.89,
+        "wx": -43.86523,
+        "wy": 54.18574,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 67.89,
+        "y": 50.63,
+        "wx": 68.68348,
+        "wy": -2.42865,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 34.47,
+        "y": 62.61,
+        "wx": -59.62394,
+        "wy": -48.43575,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 25.15,
+        "y": 23.15,
+        "wx": -95.40968,
+        "wy": 103.11694,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 74.86,
+        "y": 25.1,
+        "wx": 95.45606,
+        "wy": 95.59995,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 64.51,
+        "y": 25.25,
+        "wx": 55.71215,
+        "wy": 95.05013,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 23.44,
+        "y": 64.21,
+        "wx": -101.9814,
+        "wy": -54.57124,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 77.78,
+        "y": 35.8,
+        "wx": 106.67052,
+        "wy": 54.53893,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 38.99,
+        "y": 73.17,
+        "wx": -42.26216,
+        "wy": -88.9731,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      }
+    ],
+    "mapsize": [
+      384.0,
+      384.0
+    ],
+    "maxplayers": 2
+  },
+  "la_gleize_breakout": {
+    "points": [
+      {
+        "x": 79.13,
+        "y": 21.24,
+        "wx": 93.20248,
+        "wy": 92.03943,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 25.62,
+        "y": 82.5,
+        "wx": -78.0,
+        "wy": -104.0,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 55.18,
+        "y": 53.09,
+        "wx": 16.58179,
+        "wy": -9.87962,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 22.46,
+        "y": 56.21,
+        "wx": -88.11996,
+        "wy": -19.88444,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 39.74,
+        "y": 46.64,
+        "wx": -32.83721,
+        "wy": 10.73637,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 72.03,
+        "y": 74.12,
+        "wx": 70.4808,
+        "wy": -77.19582,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 64.7,
+        "y": 60.94,
+        "wx": 47.03212,
+        "wy": -35.0161,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 29.42,
+        "y": 27.01,
+        "wx": -65.84371,
+        "wy": 73.57096,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 37.18,
+        "y": 62.01,
+        "wx": -41.01995,
+        "wy": -38.43134,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 64.51,
+        "y": 33.5,
+        "wx": 46.44613,
+        "wy": 52.80221,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 17.44,
+        "y": 39.38,
+        "wx": -104.18745,
+        "wy": 33.97657,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 60.45,
+        "y": 79.44,
+        "wx": 33.43401,
+        "wy": -94.21668,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 47.42,
+        "y": 25.62,
+        "wx": -8.26928,
+        "wy": 78.00196,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 74.96,
+        "y": 47.41,
+        "wx": 79.86746,
+        "wy": 8.29778,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 88.06,
+        "y": 68.71,
+        "wx": 121.79777,
+        "wy": -59.86616,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 24.82,
+        "y": 14.19,
+        "wx": -80.58424,
+        "wy": 114.60728,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 82.1,
+        "y": 84.38,
+        "wx": 102.7319,
+        "wy": -110.02857,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      }
+    ],
+    "mapsize": [
+      320.0,
+      320.0
+    ],
+    "maxplayers": 2
+  },
+  "ladoga_karelia": {
+    "points": [
+      {
+        "x": 24.86,
+        "y": 24.95,
+        "wx": -96.51949,
+        "wy": 96.20945,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 74.94,
+        "y": 76.12,
+        "wx": 95.78193,
+        "wy": -100.31823,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 49.91,
+        "y": 50.18,
+        "wx": -0.34479,
+        "wy": -0.67531,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 41.54,
+        "y": 75.17,
+        "wx": -32.50388,
+        "wy": -96.65169,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 58.34,
+        "y": 24.96,
+        "wx": 32.03932,
+        "wy": 96.15199,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 62.38,
+        "y": 37.14,
+        "wx": 47.52621,
+        "wy": 49.36916,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 49.84,
+        "y": 66.84,
+        "wx": -0.62334,
+        "wy": -64.65722,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 66.47,
+        "y": 58.53,
+        "wx": 63.24325,
+        "wy": -32.74229,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 33.15,
+        "y": 41.68,
+        "wx": -64.7038,
+        "wy": 31.94321,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 49.86,
+        "y": 33.56,
+        "wx": -0.5386,
+        "wy": 63.14458,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 20.42,
+        "y": 79.45,
+        "wx": -113.58643,
+        "wy": -113.0976,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 78.92,
+        "y": 21.02,
+        "wx": 111.06563,
+        "wy": 111.29562,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 58.14,
+        "y": 58.52,
+        "wx": 31.27118,
+        "wy": -32.72877,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 41.37,
+        "y": 41.75,
+        "wx": -33.15002,
+        "wy": 31.67567,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 74.9,
+        "y": 37.33,
+        "wx": 95.60058,
+        "wy": 48.65769,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 24.89,
+        "y": 50.13,
+        "wx": -96.43047,
+        "wy": -0.48615,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 74.93,
+        "y": 50.22,
+        "wx": 95.73456,
+        "wy": -0.8515,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 24.92,
+        "y": 63.11,
+        "wx": -96.30001,
+        "wy": -50.33976,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 36.84,
+        "y": 63.32,
+        "wx": -50.52199,
+        "wy": -51.13042,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      }
+    ],
+    "mapsize": [
+      384.0,
+      384.0
+    ],
+    "maxplayers": 2
+  },
+  "langres": {
+    "points": [
+      {
+        "x": 13.82,
+        "y": 47.96,
+        "wx": -127.3383,
+        "wy": 7.17819,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 14.77,
+        "y": 65.91,
+        "wx": -124.0,
+        "wy": -56.0,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 71.88,
+        "y": 37.5,
+        "wx": 77.0,
+        "wy": 44.0,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 24.64,
+        "y": 49.01,
+        "wx": -89.26069,
+        "wy": 3.48325,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 38.53,
+        "y": 34.78,
+        "wx": -40.36883,
+        "wy": 53.5653,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 40.85,
+        "y": 48.41,
+        "wx": -32.1913,
+        "wy": 5.58822,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 47.24,
+        "y": 67.87,
+        "wx": -9.72474,
+        "wy": -62.91255,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 55.3,
+        "y": 45.7,
+        "wx": 18.63892,
+        "wy": 15.15107,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 26.39,
+        "y": 39.22,
+        "wx": -83.09982,
+        "wy": 37.95913,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 51.38,
+        "y": 59.56,
+        "wx": 4.84217,
+        "wy": -33.65675,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 51.33,
+        "y": 28.66,
+        "wx": 4.68036,
+        "wy": 75.12463,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 37.54,
+        "y": 24.35,
+        "wx": -43.85453,
+        "wy": 90.30125,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 20.71,
+        "y": 20.73,
+        "wx": -103.09335,
+        "wy": 103.01335,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 61.83,
+        "y": 79.09,
+        "wx": 41.65856,
+        "wy": -102.39287,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 65.42,
+        "y": 55.91,
+        "wx": 54.26314,
+        "wy": -20.78788,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 29.43,
+        "y": 60.44,
+        "wx": -72.40652,
+        "wy": -36.74788,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 39.18,
+        "y": 67.01,
+        "wx": -38.0694,
+        "wy": -59.88651,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 73.97,
+        "y": 66.65,
+        "wx": 84.38363,
+        "wy": -58.60089,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 46.33,
+        "y": 79.07,
+        "wx": -12.90271,
+        "wy": -102.32232,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      }
+    ],
+    "mapsize": [
+      352.0,
+      352.0
+    ],
+    "maxplayers": 2
+  },
+  "langres_winter": {
+    "points": [
+      {
+        "x": 32.3,
+        "y": 61.77,
+        "wx": -62.29842,
+        "wy": -41.42341,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 41.73,
+        "y": 68.32,
+        "wx": -29.11312,
+        "wy": -64.47713,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 58.27,
+        "y": 44.16,
+        "wx": 29.09604,
+        "wy": 20.55204,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 49.23,
+        "y": 81.38,
+        "wx": -2.70615,
+        "wy": -110.45449,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 75.2,
+        "y": 70.45,
+        "wx": 88.70226,
+        "wy": -71.9814,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 64.72,
+        "y": 80.96,
+        "wx": 51.82723,
+        "wy": -108.96646,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 55.29,
+        "y": 61.4,
+        "wx": 18.62318,
+        "wy": -40.12871,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 53.42,
+        "y": 29.12,
+        "wx": 12.03217,
+        "wy": 73.51372,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 40.91,
+        "y": 25.15,
+        "wx": -32.01057,
+        "wy": 87.46478,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 28.61,
+        "y": 50.21,
+        "wx": -75.28091,
+        "wy": -0.74489,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 24.19,
+        "y": 21.2,
+        "wx": -90.85361,
+        "wy": 101.38029,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 29.76,
+        "y": 40.99,
+        "wx": -71.25835,
+        "wy": 31.70466,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 16.01,
+        "y": 49.69,
+        "wx": -119.62878,
+        "wy": 1.1037,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 69.52,
+        "y": 18.99,
+        "wx": 68.7064,
+        "wy": 109.16574,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 64.47,
+        "y": 72.81,
+        "wx": 50.93952,
+        "wy": -80.28521,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 45.1,
+        "y": 50.16,
+        "wx": -17.24307,
+        "wy": -0.57273,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 31.06,
+        "y": 31.68,
+        "wx": -66.65455,
+        "wy": 64.5031,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 17.35,
+        "y": 67.0,
+        "wx": -114.92155,
+        "wy": -59.85373,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 76.06,
+        "y": 39.48,
+        "wx": 91.71786,
+        "wy": 37.01382,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      }
+    ],
+    "mapsize": [
+      352.0,
+      352.0
+    ],
+    "maxplayers": 2
+  },
+  "market_ruins": {
+    "points": [
+      {
+        "x": 32.69,
+        "y": 17.94,
+        "wx": -44.30907,
+        "wy": 123.10305,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 32.43,
+        "y": 81.85,
+        "wx": -44.96859,
+        "wy": -122.28984,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 49.7,
+        "y": 50.09,
+        "wx": -0.75947,
+        "wy": -0.34212,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 76.08,
+        "y": 40.33,
+        "wx": 66.76585,
+        "wy": 37.15171,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 76.54,
+        "y": 60.23,
+        "wx": 67.95229,
+        "wy": -39.28439,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 55.95,
+        "y": 21.65,
+        "wx": 15.2404,
+        "wy": 108.84531,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 37.26,
+        "y": 36.86,
+        "wx": -32.61125,
+        "wy": 50.45041,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 57.64,
+        "y": 33.48,
+        "wx": 19.55907,
+        "wy": 63.43716,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 37.48,
+        "y": 50.11,
+        "wx": -32.05767,
+        "wy": -0.43197,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 61.16,
+        "y": 50.15,
+        "wx": 28.56464,
+        "wy": -0.57779,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 37.25,
+        "y": 62.99,
+        "wx": -32.63573,
+        "wy": -49.88439,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 56.13,
+        "y": 79.56,
+        "wx": 15.69162,
+        "wy": -113.4947,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 57.38,
+        "y": 66.85,
+        "wx": 18.90105,
+        "wy": -64.71593,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 68.99,
+        "y": 78.8,
+        "wx": 48.60392,
+        "wy": -110.57925,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 69.23,
+        "y": 22.78,
+        "wx": 49.21982,
+        "wy": 104.54302,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 22.03,
+        "y": 36.59,
+        "wx": -71.61533,
+        "wy": 51.5118,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 21.74,
+        "y": 63.22,
+        "wx": -72.33895,
+        "wy": -50.77817,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 73.64,
+        "y": 50.14,
+        "wx": 60.51851,
+        "wy": -0.53222,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 14.13,
+        "y": 50.1,
+        "wx": -91.82244,
+        "wy": -0.38937,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      }
+    ],
+    "mapsize": [
+      256.0,
+      384.0
+    ],
+    "maxplayers": 2
+  },
+  "mill_road": {
+    "points": [
+      {
+        "x": 22.53,
+        "y": 27.45,
+        "wx": -96.69817,
+        "wy": 79.36598,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 73.91,
+        "y": 78.52,
+        "wx": 84.16118,
+        "wy": -100.40374,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 55.4,
+        "y": 28.41,
+        "wx": 19.0,
+        "wy": 76.0,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 43.01,
+        "y": 75.16,
+        "wx": -24.61147,
+        "wy": -88.57146,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 17.23,
+        "y": 55.59,
+        "wx": -115.34998,
+        "wy": -19.68493,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 64.77,
+        "y": 35.51,
+        "wx": 52.0,
+        "wy": 51.0,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 48.11,
+        "y": 50.3,
+        "wx": -6.64984,
+        "wy": -1.05874,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 30.69,
+        "y": 69.46,
+        "wx": -67.98109,
+        "wy": -68.48537,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 40.74,
+        "y": 25.13,
+        "wx": -32.6027,
+        "wy": 87.54414,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 23.76,
+        "y": 47.28,
+        "wx": -92.36815,
+        "wy": 9.59104,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 69.76,
+        "y": 21.71,
+        "wx": 69.55466,
+        "wy": 99.57346,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 39.68,
+        "y": 36.24,
+        "wx": -36.32391,
+        "wy": 48.41927,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 35.93,
+        "y": 56.95,
+        "wx": -49.5405,
+        "wy": -24.45214,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 76.0,
+        "y": 56.94,
+        "wx": 91.52233,
+        "wy": -24.43533,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 55.09,
+        "y": 74.82,
+        "wx": 17.92735,
+        "wy": -87.35598,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 66.15,
+        "y": 46.73,
+        "wx": 56.84881,
+        "wy": 11.5172,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 58.73,
+        "y": 62.61,
+        "wx": 30.72314,
+        "wy": -44.39204,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 26.3,
+        "y": 81.44,
+        "wx": -83.43332,
+        "wy": -110.6839,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 77.66,
+        "y": 47.29,
+        "wx": 97.37746,
+        "wy": 9.54112,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      }
+    ],
+    "mapsize": [
+      352.0,
+      352.0
+    ],
+    "maxplayers": 2
+  },
+  "minsk_pocket": {
+    "points": [
+      {
+        "x": 48.68,
+        "y": 53.21,
+        "wx": -4.23807,
+        "wy": -13.36761,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 23.46,
+        "y": 41.68,
+        "wx": -84.93395,
+        "wy": 34.61518,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 42.71,
+        "y": 67.01,
+        "wx": -23.31404,
+        "wy": -70.7796,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 87.75,
+        "y": 71.52,
+        "wx": 120.80434,
+        "wy": -89.54116,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 25.19,
+        "y": 57.18,
+        "wx": -79.39321,
+        "wy": -29.86656,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 77.28,
+        "y": 62.21,
+        "wx": 87.30822,
+        "wy": -50.79224,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 70.94,
+        "y": 78.64,
+        "wx": 67.00066,
+        "wy": -119.15089,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 37.89,
+        "y": 37.75,
+        "wx": -38.76268,
+        "wy": 50.95846,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 31.76,
+        "y": 22.93,
+        "wx": -58.36601,
+        "wy": 112.6094,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 52.84,
+        "y": 35.8,
+        "wx": 9.09896,
+        "wy": 59.07702,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 52.22,
+        "y": 15.65,
+        "wx": 7.11152,
+        "wy": 142.87569,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 73.96,
+        "y": 50.28,
+        "wx": 76.66753,
+        "wy": -1.16962,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 14.62,
+        "y": 31.48,
+        "wx": -113.23097,
+        "wy": 77.03416,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 16.0,
+        "y": 14.27,
+        "wx": -108.80511,
+        "wy": 148.65652,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 83.46,
+        "y": 84.58,
+        "wx": 107.0789,
+        "wy": -143.8676,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 62.11,
+        "y": 67.96,
+        "wx": 38.74675,
+        "wy": -74.69711,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 22.41,
+        "y": 87.35,
+        "wx": -88.28001,
+        "wy": -155.37587,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 77.81,
+        "y": 15.89,
+        "wx": 89.0065,
+        "wy": 141.91783,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 50.32,
+        "y": 86.82,
+        "wx": 1.01235,
+        "wy": -153.17857,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      }
+    ],
+    "mapsize": [
+      320.0,
+      416.0
+    ],
+    "maxplayers": 2
+  },
+  "novgorodoutskirts": {
+    "points": [
+      {
+        "x": 79.76,
+        "y": 20.32,
+        "wx": 95.22934,
+        "wy": 94.97498,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 19.65,
+        "y": 80.41,
+        "wx": -97.12302,
+        "wy": -97.30938,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 77.48,
+        "y": 79.51,
+        "wx": 87.93186,
+        "wy": -94.42699,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 51.26,
+        "y": 51.19,
+        "wx": 4.03681,
+        "wy": -3.79981,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 16.35,
+        "y": 17.72,
+        "wx": -107.66428,
+        "wy": 103.29882,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 65.13,
+        "y": 80.08,
+        "wx": 48.42403,
+        "wy": -96.24995,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 35.35,
+        "y": 19.56,
+        "wx": -46.88089,
+        "wy": 97.41988,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 82.68,
+        "y": 66.39,
+        "wx": 104.58027,
+        "wy": -52.44323,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 17.86,
+        "y": 33.14,
+        "wx": -102.85889,
+        "wy": 53.95511,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 14.37,
+        "y": 55.32,
+        "wx": -114.0025,
+        "wy": -17.02023,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 37.69,
+        "y": 61.14,
+        "wx": -39.39486,
+        "wy": -35.65755,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 50.68,
+        "y": 86.91,
+        "wx": 2.16321,
+        "wy": -118.12328,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 50.71,
+        "y": 67.09,
+        "wx": 2.27456,
+        "wy": -54.69006,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 30.5,
+        "y": 42.9,
+        "wx": -62.41211,
+        "wy": 22.72115,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 49.59,
+        "y": 32.93,
+        "wx": -1.32466,
+        "wy": 54.62277,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 68.86,
+        "y": 56.69,
+        "wx": 60.34355,
+        "wy": -21.41434,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 61.68,
+        "y": 39.6,
+        "wx": 37.36548,
+        "wy": 33.27728,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 85.25,
+        "y": 46.35,
+        "wx": 112.79366,
+        "wy": 11.69526,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 50.39,
+        "y": 16.13,
+        "wx": 1.24977,
+        "wy": 108.39906,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      }
+    ],
+    "mapsize": [
+      320.0,
+      320.0
+    ],
+    "maxplayers": 2
+  },
+  "rechnaya_pereprava": {
+    "points": [
+      {
+        "x": 19.8,
+        "y": 37.92,
+        "wx": -96.64528,
+        "wy": 38.65447,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 79.48,
+        "y": 64.23,
+        "wx": 94.3441,
+        "wy": -45.53774,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 49.84,
+        "y": 50.15,
+        "wx": -0.50994,
+        "wy": -0.46964,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 65.25,
+        "y": 25.09,
+        "wx": 48.80458,
+        "wy": 79.70229,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 34.78,
+        "y": 75.17,
+        "wx": -48.70773,
+        "wy": -80.53103,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 55.25,
+        "y": 15.22,
+        "wx": 16.79775,
+        "wy": 111.29408,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 43.49,
+        "y": 84.31,
+        "wx": -20.83479,
+        "wy": -109.8058,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 59.88,
+        "y": 70.09,
+        "wx": 31.60111,
+        "wy": -64.2936,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 39.85,
+        "y": 30.15,
+        "wx": -32.47865,
+        "wy": 63.50718,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 26.67,
+        "y": 57.57,
+        "wx": -74.66135,
+        "wy": -24.2302,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 14.97,
+        "y": 55.12,
+        "wx": -112.10025,
+        "wy": -16.36911,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 44.54,
+        "y": 20.17,
+        "wx": -17.46626,
+        "wy": 95.45695,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 54.89,
+        "y": 80.2,
+        "wx": 15.63574,
+        "wy": -96.64366,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 34.94,
+        "y": 45.35,
+        "wx": -48.18437,
+        "wy": 14.88866,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 64.71,
+        "y": 55.12,
+        "wx": 47.08247,
+        "wy": -16.38412,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 59.83,
+        "y": 40.15,
+        "wx": 31.44183,
+        "wy": 31.519,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 39.87,
+        "y": 60.15,
+        "wx": -32.41248,
+        "wy": -32.47226,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 84.7,
+        "y": 45.31,
+        "wx": 111.02784,
+        "wy": 15.01248,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 73.17,
+        "y": 43.0,
+        "wx": 74.1558,
+        "wy": 22.39298,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      }
+    ],
+    "mapsize": [
+      320.0,
+      320.0
+    ],
+    "maxplayers": 2
+  },
+  "road_to_kharkov": {
+    "points": [
+      {
+        "x": 66.93,
+        "y": 78.04,
+        "wx": 59.5898,
+        "wy": -134.57997,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 31.95,
+        "y": 18.44,
+        "wx": -63.52457,
+        "wy": 151.49391,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 32.62,
+        "y": 65.94,
+        "wx": -61.17476,
+        "wy": -76.53586,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 42.15,
+        "y": 78.68,
+        "wx": -27.62764,
+        "wy": -137.68098,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 67.4,
+        "y": 31.82,
+        "wx": 61.26345,
+        "wy": 87.28361,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 57.1,
+        "y": 20.04,
+        "wx": 25.00816,
+        "wy": 143.82245,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 61.77,
+        "y": 54.36,
+        "wx": 41.41732,
+        "wy": -20.90823,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 46.58,
+        "y": 61.05,
+        "wx": -12.02092,
+        "wy": -53.01639,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 38.63,
+        "y": 45.75,
+        "wx": -40.03191,
+        "wy": 20.41207,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 53.39,
+        "y": 39.38,
+        "wx": 11.92579,
+        "wy": 50.97701,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 49.42,
+        "y": 50.21,
+        "wx": -2.03219,
+        "wy": -0.99313,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 42.71,
+        "y": 35.23,
+        "wx": -25.67002,
+        "wy": 70.89174,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 74.75,
+        "y": 52.73,
+        "wx": 87.12452,
+        "wy": -13.11304,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 73.1,
+        "y": 47.09,
+        "wx": 81.30381,
+        "wy": 13.97572,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 57.7,
+        "y": 64.36,
+        "wx": 27.09068,
+        "wy": -68.92571,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 64.43,
+        "y": 41.56,
+        "wx": 50.78658,
+        "wy": 40.49082,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 34.38,
+        "y": 57.29,
+        "wx": -55.0,
+        "wy": -35.0,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 26.43,
+        "y": 43.62,
+        "wx": -82.9544,
+        "wy": 30.6178,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 27.51,
+        "y": 51.1,
+        "wx": -79.15038,
+        "wy": -5.29763,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      }
+    ],
+    "mapsize": [
+      352.0,
+      480.0
+    ],
+    "maxplayers": 2
+  },
+  "rustungswerke_essen": {
+    "points": [
+      {
+        "x": 25.22,
+        "y": 22.29,
+        "wx": -103.08011,
+        "wy": 115.26328,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 74.26,
+        "y": 77.26,
+        "wx": 100.90086,
+        "wy": -113.41159,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 78.25,
+        "y": 61.9,
+        "wx": 117.50771,
+        "wy": -49.51068,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 21.53,
+        "y": 38.28,
+        "wx": -118.45166,
+        "wy": 48.76835,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 46.04,
+        "y": 80.63,
+        "wx": -16.46246,
+        "wy": -127.4076,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 22.93,
+        "y": 77.04,
+        "wx": -112.60399,
+        "wy": -112.47364,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 57.46,
+        "y": 33.33,
+        "wx": 31.05251,
+        "wy": 69.36269,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 34.23,
+        "y": 58.03,
+        "wx": -65.60568,
+        "wy": -33.41666,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 77.2,
+        "y": 38.18,
+        "wx": 113.16543,
+        "wy": 49.16619,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 76.88,
+        "y": 23.19,
+        "wx": 111.80104,
+        "wy": 111.54929,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 41.93,
+        "y": 66.51,
+        "wx": -33.55541,
+        "wy": -68.69489,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 64.82,
+        "y": 42.38,
+        "wx": 61.63041,
+        "wy": 31.70297,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 22.54,
+        "y": 62.1,
+        "wx": -114.2184,
+        "wy": -50.32911,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 34.98,
+        "y": 42.68,
+        "wx": -62.48077,
+        "wy": 30.45322,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 65.98,
+        "y": 57.56,
+        "wx": 66.46122,
+        "wy": -31.45746,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 53.75,
+        "y": 19.55,
+        "wx": 15.60002,
+        "wy": 126.69064,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 68.07,
+        "y": 50.19,
+        "wx": 75.1763,
+        "wy": -0.80602,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 31.77,
+        "y": 50.25,
+        "wx": -75.8237,
+        "wy": -1.05253,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 50.13,
+        "y": 49.86,
+        "wx": 0.53148,
+        "wy": 0.57464,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      }
+    ],
+    "mapsize": [
+      416.0,
+      416.0
+    ],
+    "maxplayers": 2
+  },
+  "semois": {
+    "points": [
+      {
+        "x": 18.0,
+        "y": 40.47,
+        "wx": -153.60461,
+        "wy": 45.73782,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 80.85,
+        "y": 73.16,
+        "wx": 148.07758,
+        "wy": -111.16807,
+        "owner": 1003,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 48.7,
+        "y": 48.72,
+        "wx": -6.25848,
+        "wy": 6.13758,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 49.15,
+        "y": 21.55,
+        "wx": -4.10278,
+        "wy": 136.54329,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 50.27,
+        "y": 77.4,
+        "wx": 1.31383,
+        "wy": -131.50581,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 80.56,
+        "y": 64.13,
+        "wx": 146.66803,
+        "wy": -67.80968,
+        "owner": 1002,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 76.02,
+        "y": 24.36,
+        "wx": 124.90758,
+        "wy": 123.06239,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 51.06,
+        "y": 31.54,
+        "wx": 5.10511,
+        "wy": 88.63089,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 38.81,
+        "y": 62.08,
+        "wx": -53.72452,
+        "wy": -57.98332,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 64.29,
+        "y": 35.24,
+        "wx": 68.59383,
+        "wy": 70.8701,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 23.14,
+        "y": 73.58,
+        "wx": -128.90851,
+        "wy": -113.1907,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 41.29,
+        "y": 72.86,
+        "wx": -41.82555,
+        "wy": -109.71304,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 56.79,
+        "y": 60.51,
+        "wx": 32.57863,
+        "wy": -50.45081,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 23.01,
+        "y": 54.74,
+        "wx": -129.57109,
+        "wy": -22.73787,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 54.79,
+        "y": 53.08,
+        "wx": 22.98474,
+        "wy": -14.795,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 41.48,
+        "y": 49.11,
+        "wx": -40.91102,
+        "wy": 4.27555,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 37.47,
+        "y": 38.5,
+        "wx": -60.14959,
+        "wy": 55.19559,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 78.04,
+        "y": 49.4,
+        "wx": 134.59296,
+        "wy": 2.90398,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 49.27,
+        "y": 83.38,
+        "wx": -3.50147,
+        "wy": -160.2258,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 49.77,
+        "y": 16.35,
+        "wx": -1.11261,
+        "wy": 161.49934,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 17.42,
+        "y": 31.82,
+        "wx": -156.39571,
+        "wy": 87.25089,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      }
+    ],
+    "mapsize": [
+      480.0,
+      480.0
+    ],
+    "maxplayers": 4
+  },
+  "semois_winter": {
+    "points": [
+      {
+        "x": 19.54,
+        "y": 40.78,
+        "wx": -146.22621,
+        "wy": 44.26668,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 49.51,
+        "y": 49.88,
+        "wx": -2.34571,
+        "wy": 0.59662,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 48.21,
+        "y": 21.51,
+        "wx": -8.59596,
+        "wy": 136.73369,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 50.98,
+        "y": 77.57,
+        "wx": 4.70012,
+        "wy": -132.31242,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 81.0,
+        "y": 63.54,
+        "wx": 148.82089,
+        "wy": -65.00554,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 22.96,
+        "y": 73.0,
+        "wx": -129.77811,
+        "wy": -110.41268,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 57.45,
+        "y": 33.78,
+        "wx": 35.76562,
+        "wy": 77.83921,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 61.05,
+        "y": 42.14,
+        "wx": 53.0481,
+        "wy": 37.72417,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 37.81,
+        "y": 64.13,
+        "wx": -58.53112,
+        "wy": -67.804,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 75.97,
+        "y": 24.01,
+        "wx": 124.65485,
+        "wy": 124.75584,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 41.91,
+        "y": 72.13,
+        "wx": -38.83368,
+        "wy": -106.24229,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 56.6,
+        "y": 60.76,
+        "wx": 31.67917,
+        "wy": -51.6243,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 22.33,
+        "y": 54.91,
+        "wx": -132.79584,
+        "wy": -23.57916,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 54.78,
+        "y": 53.09,
+        "wx": 22.96726,
+        "wy": -14.81472,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 42.23,
+        "y": 48.52,
+        "wx": -37.28171,
+        "wy": 7.12361,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 37.76,
+        "y": 38.25,
+        "wx": -58.73716,
+        "wy": 56.39188,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 78.21,
+        "y": 50.07,
+        "wx": 135.3878,
+        "wy": -0.31485,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 49.19,
+        "y": 82.84,
+        "wx": -3.87779,
+        "wy": -157.61569,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 49.49,
+        "y": 16.37,
+        "wx": -2.43002,
+        "wy": 161.40199,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      }
+    ],
+    "mapsize": [
+      480.0,
+      480.0
+    ],
+    "maxplayers": 2
+  },
+  "southern_alblasserwaard": {
+    "points": [
+      {
+        "x": 19.77,
+        "y": 20.13,
+        "wx": -96.73761,
+        "wy": 95.57129,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 79.8,
+        "y": 80.21,
+        "wx": 95.36465,
+        "wy": -96.65669,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 54.46,
+        "y": 20.05,
+        "wx": 14.25905,
+        "wy": 95.8463,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 79.72,
+        "y": 45.28,
+        "wx": 95.10645,
+        "wy": 15.11851,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 14.64,
+        "y": 85.26,
+        "wx": -113.15515,
+        "wy": -112.81777,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 59.86,
+        "y": 60.5,
+        "wx": 31.56111,
+        "wy": -33.58689,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 39.92,
+        "y": 40.16,
+        "wx": -32.24258,
+        "wy": 31.49643,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 79.92,
+        "y": 60.24,
+        "wx": 95.7346,
+        "wy": -32.76726,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 33.62,
+        "y": 81.12,
+        "wx": -52.40362,
+        "wy": -99.59789,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 49.63,
+        "y": 50.35,
+        "wx": -1.17176,
+        "wy": -1.10809,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 39.81,
+        "y": 20.09,
+        "wx": -32.6039,
+        "wy": 95.71968,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 18.88,
+        "y": 65.42,
+        "wx": -99.57274,
+        "wy": -49.33677,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 19.71,
+        "y": 48.39,
+        "wx": -96.91483,
+        "wy": 5.14051,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 29.21,
+        "y": 54.88,
+        "wx": -66.52626,
+        "wy": -15.61343,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 65.41,
+        "y": 34.81,
+        "wx": 49.31364,
+        "wy": 48.59742,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 76.97,
+        "y": 22.26,
+        "wx": 86.30881,
+        "wy": 88.76096,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 44.7,
+        "y": 71.07,
+        "wx": -16.95391,
+        "wy": -67.43402,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 53.01,
+        "y": 80.24,
+        "wx": 9.61667,
+        "wy": -96.76286,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 81.2,
+        "y": 18.19,
+        "wx": 99.85577,
+        "wy": 101.80037,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      }
+    ],
+    "mapsize": [
+      320.0,
+      320.0
+    ],
+    "maxplayers": 2
+  },
+  "sturzdorf": {
+    "points": [
+      {
+        "x": 68.89,
+        "y": 82.58,
+        "wx": 60.4633,
+        "wy": -114.67374,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 76.77,
+        "y": 18.98,
+        "wx": 85.65723,
+        "wy": 109.17889,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 81.98,
+        "y": 41.52,
+        "wx": 102.35043,
+        "wy": 29.84048,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 40.45,
+        "y": 71.22,
+        "wx": -30.56555,
+        "wy": -74.70715,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 54.6,
+        "y": 32.92,
+        "wx": 14.72557,
+        "wy": 60.12687,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 61.72,
+        "y": 46.58,
+        "wx": 37.49993,
+        "wy": 12.05071,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 30.24,
+        "y": 35.08,
+        "wx": -63.22396,
+        "wy": 52.51346,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 49.57,
+        "y": 85.18,
+        "wx": -1.37759,
+        "wy": -123.84821,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 81.55,
+        "y": 64.9,
+        "wx": 100.95651,
+        "wy": -52.44752,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 84.44,
+        "y": 83.69,
+        "wx": 110.22386,
+        "wy": -118.57896,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 23.87,
+        "y": 65.44,
+        "wx": -83.61238,
+        "wy": -54.35295,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 71.13,
+        "y": 59.44,
+        "wx": 67.62006,
+        "wy": -33.23241,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 21.13,
+        "y": 51.87,
+        "wx": -92.39052,
+        "wy": -6.58677,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 51.46,
+        "y": 53.94,
+        "wx": 4.673,
+        "wy": -13.86046,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 17.92,
+        "y": 25.74,
+        "wx": -102.66055,
+        "wy": 85.38045,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 38.26,
+        "y": 54.06,
+        "wx": -37.58122,
+        "wy": -14.3061,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 59.49,
+        "y": 67.98,
+        "wx": 30.35843,
+        "wy": -63.3009,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 40.43,
+        "y": 15.27,
+        "wx": -30.61675,
+        "wy": 122.23388,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 17.39,
+        "y": 84.78,
+        "wx": -104.33926,
+        "wy": -122.42149,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      }
+    ],
+    "mapsize": [
+      320.0,
+      352.0
+    ],
+    "maxplayers": 2
+  },
+  "terek_lines": {
+    "points": [
+      {
+        "x": 21.51,
+        "y": 70.83,
+        "wx": -100.26923,
+        "wy": -73.33109,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 32.51,
+        "y": 25.76,
+        "wx": -61.54977,
+        "wy": 85.33226,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 50.96,
+        "y": 80.63,
+        "wx": 3.38174,
+        "wy": -107.80634,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 37.01,
+        "y": 80.09,
+        "wx": -45.72767,
+        "wy": -105.92769,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 44.64,
+        "y": 63.84,
+        "wx": -18.86461,
+        "wy": -48.71081,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 36.25,
+        "y": 36.47,
+        "wx": -48.39641,
+        "wy": 47.62258,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 77.93,
+        "y": 71.67,
+        "wx": 98.30183,
+        "wy": -76.28611,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 19.79,
+        "y": 41.31,
+        "wx": -106.33528,
+        "wy": 30.57244,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 60.87,
+        "y": 76.82,
+        "wx": 38.25834,
+        "wy": -94.3941,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 46.37,
+        "y": 20.56,
+        "wx": -12.79165,
+        "wy": 103.61949,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 68.48,
+        "y": 48.8,
+        "wx": 65.04553,
+        "wy": 4.23421,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 58.36,
+        "y": 32.88,
+        "wx": 29.40966,
+        "wy": 60.27941,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 79.56,
+        "y": 26.77,
+        "wx": 104.03815,
+        "wy": 81.77858,
+        "owner": 1002,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 28.73,
+        "y": 15.07,
+        "wx": -74.86694,
+        "wy": 122.95153,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 62.41,
+        "y": 65.6,
+        "wx": 43.69038,
+        "wy": -54.90247,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 20.59,
+        "y": 65.65,
+        "wx": -103.53394,
+        "wy": -55.07153,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 80.94,
+        "y": 31.61,
+        "wx": 108.89652,
+        "wy": 64.72044,
+        "owner": 1003,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 33.99,
+        "y": 51.63,
+        "wx": -56.34478,
+        "wy": -5.74566,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 64.08,
+        "y": 15.19,
+        "wx": 49.54906,
+        "wy": 122.54865,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 66.82,
+        "y": 85.22,
+        "wx": 59.19272,
+        "wy": -123.96091,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 49.74,
+        "y": 52.88,
+        "wx": -0.9178,
+        "wy": -10.12979,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      }
+    ],
+    "mapsize": [
+      352.0,
+      352.0
+    ],
+    "maxplayers": 4
+  },
+  "westwall": {
+    "points": [
+      {
+        "x": 22.88,
+        "y": 22.68,
+        "wx": -104.14989,
+        "wy": 122.38815,
+        "owner": 1000,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 77.36,
+        "y": 76.93,
+        "wx": 105.07455,
+        "wy": -120.6667,
+        "owner": 1001,
+        "ebp": "starting_position_shared_territory",
+        "kind": "start"
+      },
+      {
+        "x": 47.95,
+        "y": 50.09,
+        "wx": -7.85818,
+        "wy": -0.41821,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 22.19,
+        "y": 64.4,
+        "wx": -106.77342,
+        "wy": -64.53091,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 77.89,
+        "y": 35.78,
+        "wx": 107.11563,
+        "wy": 63.68805,
+        "owner": 0,
+        "ebp": "victory_point",
+        "kind": "vp"
+      },
+      {
+        "x": 21.21,
+        "y": 39.81,
+        "wx": -110.53606,
+        "wy": 45.63767,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 40.53,
+        "y": 45.44,
+        "wx": -36.35529,
+        "wy": 20.45087,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 49.91,
+        "y": 35.76,
+        "wx": -0.35485,
+        "wy": 63.78266,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 49.71,
+        "y": 64.41,
+        "wx": -1.10786,
+        "wy": -64.55106,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 60.79,
+        "y": 43.43,
+        "wx": 41.42244,
+        "wy": 29.4495,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 77.98,
+        "y": 60.65,
+        "wx": 107.4584,
+        "wy": -47.69129,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 58.21,
+        "y": 80.96,
+        "wx": 31.53949,
+        "wy": -138.71182,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 41.49,
+        "y": 19.3,
+        "wx": -32.68979,
+        "wy": 137.54819,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 39.16,
+        "y": 57.71,
+        "wx": -41.61773,
+        "wy": -34.5187,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 59.26,
+        "y": 55.51,
+        "wx": 35.54108,
+        "wy": -24.69724,
+        "owner": 0,
+        "ebp": "territory_point_mp",
+        "kind": "territory"
+      },
+      {
+        "x": 41.05,
+        "y": 75.07,
+        "wx": -34.38078,
+        "wy": -112.31652,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 58.44,
+        "y": 25.37,
+        "wx": 32.41178,
+        "wy": 110.36335,
+        "owner": 0,
+        "ebp": "territory_munitions_point_mp",
+        "kind": "munitions"
+      },
+      {
+        "x": 74.35,
+        "y": 44.81,
+        "wx": 93.51512,
+        "wy": 23.27327,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      },
+      {
+        "x": 25.37,
+        "y": 55.49,
+        "wx": -94.5928,
+        "wy": -24.6119,
+        "owner": 0,
+        "ebp": "territory_fuel_point_mp",
+        "kind": "fuel"
+      }
+    ],
+    "mapsize": [
+      384.0,
+      448.0
+    ],
+    "maxplayers": 2
+  }
+}

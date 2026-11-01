@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>WARNO Counter: Battlegroup Decoder and Counter Builder</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="../home.css" />
+</head>
+<body>
+  <div class="wrap">
+  <nav class="site-nav">
+      <a href="../index.html">Home</a>
+      <a class="active" href="index.html">WARNO</a>
+      <a href="../coh2/index.html">CoH2</a>
+      <a href="../mods/index.html">Mods</a>
+    </nav>
+
+    <header>
+      <div class="tag">WARNO · Unofficial tool</div>
+      <h1>Battlegroup Counter</h1>
+      <p class="sub">Paste an enemy import code, pick a map, get a decoded ORBAT, weakness read, opposing battlegroup suggestion, map tips, and a tactical map overlay. Runs fully offline in your browser.</p>
+    </header>
+
+    <section class="panel">
+      <label for="code">Enemy battlegroup import code</label>
+      <textarea id="code" spellcheck="false" placeholder="Paste WARNO deck code (FhE...)"></textarea>
+      <div class="row">
+        <div>
+          <label for="map">Map</label>
+          <select id="map"></select>
+        </div>
+        <div>
+          <label for="counter-div">Counter with division</label>
+          <select id="counter-div"></select>
+        </div>
+      </div>
+      <div class="actions">
+        <button type="button" id="go">Analyze and counter</button>
+        <button type="button" class="secondary" id="example">Run example (user code)</button>
+      </div>
+      <div id="error"></div>
+    </section>
+
+    <section id="results" hidden>
+      <div class="grid2">
+        <div class="panel" id="enemy-deck"></div>
+        <div class="panel" id="counter-deck"></div>
+      </div>
+      <div class="panel" id="map-panel" hidden></div>
+    </section>
+
+    <footer><p>Decoder: <code>@izohek/warno-deck-utils</code> (MIT). Unit/division data from this PC's WARNO <code>GameData</code> (DeckSerializer, Divisions, DivisionRules, UniteDescriptor; files dated 2025-08-18).
+        Deck unit IDs are DeckSerializer+1. Minimap images from Steam guide Competitive Maps by Jasp137 (bundled offline). Overlay positions are hand-placed approximations, not extracted capture-zone data. Not affiliated with Eugen Systems: verify imports in Armory.</p></footer>
+  </div>
+  <script src="warno-lib.js"></script>
+  <script src="maps.js"></script>
+  <script src="overlays.js"></script>
+  <script src="unit-icons.js"></script>
+  <script src="map-panel.js"></script>
+  <script src="deck-rules.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
